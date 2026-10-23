@@ -15,7 +15,7 @@ This repository is a **knowledge base**. It documents the Japanese tax and socia
 
 ## What ISZ™ Shiwake AI does
 
-- **Reads source documents and drafts journal entries** — receipts, invoices, card statements and bank passbooks (PDF, photos, ZIP). Several receipts in one photo are split, and each file is named "date_counterparty_amount"
+- **Reads source documents and drafts journal entries** — receipts, invoices, card statements and bank passbooks (PDF, photos, ZIP). Each file is named "date_counterparty_amount", and users are warned before sending if one photo contains several documents (to meet the scanner-storage resolution requirement)
 - **Smartphone submission from clients** — send a submission link by QR code, email or LINE; no app install or login. Image quality (the resolution requirement of the Electronic Books Preservation Act) is checked on the spot
 - **Qualified invoice system** — extracts and validates registration numbers (T + 13 digits), separates the 8% and 10% rates, and applies the transitional credit for purchases from unregistered suppliers (70% from October 2026)
 - **Electronic Books Preservation Act** — search by date, amount and counterparty, correction/deletion history, cross-reference between originals and entries (document IDs), and a template for internal rules
