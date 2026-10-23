@@ -11,7 +11,7 @@
 
 本仓库是一个**知识库**：把开发 ISZ™ 仕訳AI 过程中整理的日本税务与社会保险的计算方法和实务知识（消费税・发票制度・源泉征收・社会保险费・所得税・年末调整・折旧・法人税・电子账簿保存法・申报期限），附上计算公式、算例和一次资料出处。正文为日语。
 
-**[▶ 产品详情](https://shiwake.isz.ai/?utm_source=github&utm_medium=referral)**　｜　**[▶ 免费试用（凭证 100 张免费，无需信用卡）](https://acc.isz.ai/login?tab=register&utm_source=github&utm_medium=referral&utm_campaign=readme-zh)**　｜　**[▶ 免费计算工具](https://shiwake.isz.ai/tools/?utm_source=github&utm_medium=referral)**
+**[▶ 产品详情](https://shiwake.isz.ai/?utm_source=github&utm_medium=referral)**　｜　**[▶ 免费试用（凭证 100 张免费，无需信用卡）](https://acc.isz.ai/login?tab=register&utm_source=github&utm_medium=referral&utm_campaign=readme-zh)**　｜　**[▶ 免费计算工具](https://shiwake.isz.ai/tools/?utm_source=github&utm_medium=referral)**　｜　**[▶ 会计科目・分录示例检索](https://shiwake.isz.ai/tools/kanjo-kamoku/?utm_source=github&utm_medium=referral)**
 
 ## ISZ™ 仕訳AI 能做什么
 
@@ -29,19 +29,33 @@
 
 | 指南（日语） | 内容 | 免费工具 |
 | :--- | :--- | :--- |
-| [AI経理とは](docs/ai-keiri.md) | AI 记账的原理，AI 负责什么、人负责什么 | [工具一览](https://shiwake.isz.ai/tools/?utm_source=github&utm_medium=referral) |
-| [記帳代行・記帳の自動化](docs/kicho-jidoka.md) | 税理士事务所如何减少录入工作、凭证回收、会计软件 CSV 导入 | [工具一览](https://shiwake.isz.ai/tools/?utm_source=github&utm_medium=referral) |
+| [AI経理とは](docs/ai-keiri.md) | AI 记账的原理，AI 负责什么、人负责什么 | [收据 AI 识别](https://shiwake.isz.ai/tools/receipt-ocr/?utm_source=github&utm_medium=referral)・[请求书 AI 识别](https://shiwake.isz.ai/tools/invoice-ocr/?utm_source=github&utm_medium=referral)・[存折 AI 识别](https://shiwake.isz.ai/tools/tsucho-ocr/?utm_source=github&utm_medium=referral)・[工具一览](https://shiwake.isz.ai/tools/?utm_source=github&utm_medium=referral) |
+| [記帳代行・記帳の自動化](docs/kicho-jidoka.md) | 税理士事务所如何减少录入工作、凭证回收、会计软件 CSV 导入 | [收据 AI 识别](https://shiwake.isz.ai/tools/receipt-ocr/?utm_source=github&utm_medium=referral)・[请求书 AI 识别](https://shiwake.isz.ai/tools/invoice-ocr/?utm_source=github&utm_medium=referral)・[存折 AI 识别](https://shiwake.isz.ai/tools/tsucho-ocr/?utm_source=github&utm_medium=referral)・[工具一览](https://shiwake.isz.ai/tools/?utm_source=github&utm_medium=referral) |
 | [消費税の計算](docs/consumption-tax.md) | 含税・不含税换算、发票的尾数处理、一般・简易课税・2 成特例・3 成特例 | [消费税](https://shiwake.isz.ai/tools/shohizei/?utm_source=github&utm_medium=referral)・[方式比较](https://shiwake.isz.ai/tools/shohizei-hikaku/?utm_source=github&utm_medium=referral)・[中间申报](https://shiwake.isz.ai/tools/chukan-shinkoku/?utm_source=github&utm_medium=referral) |
-| [インボイスの登録番号と経過措置](docs/invoice.md) | T 号码校验位、80%→70% 抵扣、小额特例 | [登记号码校验](https://shiwake.isz.ai/tools/invoice-number/?utm_source=github&utm_medium=referral)・[过渡措置](https://shiwake.isz.ai/tools/keika-sochi/?utm_source=github&utm_medium=referral) |
-| [源泉徴収税額の計算](docs/withholding-tax.md) | 工资月额表（74 万日元以上的算式）、电算机计算特例、奖金、报酬 10.21% | [工资](https://shiwake.isz.ai/tools/gensen-kyuyo/?utm_source=github&utm_medium=referral)・[奖金](https://shiwake.isz.ai/tools/gensen-shoyo/?utm_source=github&utm_medium=referral)・[报酬](https://shiwake.isz.ai/tools/gensen-houshu/?utm_source=github&utm_medium=referral) |
-| [社会保険料の計算](docs/social-insurance.md) | 标准报酬月额、健康保险・护理保险・育儿支援金・厚生年金・雇用保险（令和 8 年度） | [社会保险费](https://shiwake.isz.ai/tools/shakai-hoken/?utm_source=github&utm_medium=referral)・[到手工资](https://shiwake.isz.ai/tools/kyuyo-tedori/?utm_source=github&utm_medium=referral) |
-| [所得税と年末調整](docs/income-tax.md) | 速算表、工资所得扣除、基础扣除（令和 8 年分） | [年末调整](https://shiwake.isz.ai/tools/nencho/?utm_source=github&utm_medium=referral) |
+| [インボイスの登録番号と経過措置](docs/invoice.md) | T 号码校验位、80%→70% 抵扣、小额特例 | [登记号码校验](https://shiwake.isz.ai/tools/invoice-number/?utm_source=github&utm_medium=referral)・[过渡措置](https://shiwake.isz.ai/tools/keika-sochi/?utm_source=github&utm_medium=referral)・[请求书 AI 识别](https://shiwake.isz.ai/tools/invoice-ocr/?utm_source=github&utm_medium=referral) |
+| [源泉徴収税額の計算](docs/withholding-tax.md) | 工资月额表（74 万日元以上的算式）、电算机计算特例、奖金、报酬 10.21% | [工资](https://shiwake.isz.ai/tools/gensen-kyuyo/?utm_source=github&utm_medium=referral)・[奖金](https://shiwake.isz.ai/tools/gensen-shoyo/?utm_source=github&utm_medium=referral)・[报酬](https://shiwake.isz.ai/tools/gensen-houshu/?utm_source=github&utm_medium=referral)・[退职金的税金](https://shiwake.isz.ai/tools/taishoku/?utm_source=github&utm_medium=referral) |
+| [社会保険料の計算](docs/social-insurance.md) | 标准报酬月额、健康保险・护理保险・育儿支援金・厚生年金・雇用保险（令和 8 年度） | [社会保险费](https://shiwake.isz.ai/tools/shakai-hoken/?utm_source=github&utm_medium=referral)・[到手工资](https://shiwake.isz.ai/tools/kyuyo-tedori/?utm_source=github&utm_medium=referral)・[年收之壁（年収の壁）](https://shiwake.isz.ai/tools/nenshu-kabe/?utm_source=github&utm_medium=referral) |
+| [所得税と年末調整](docs/income-tax.md) | 速算表、工资所得扣除、基础扣除、年收之壁（令和 8 年分） | [年收之壁（年収の壁）](https://shiwake.isz.ai/tools/nenshu-kabe/?utm_source=github&utm_medium=referral)・[年末调整](https://shiwake.isz.ai/tools/nencho/?utm_source=github&utm_medium=referral) |
 | [減価償却の計算](docs/depreciation.md) | 定额法・200% 定率法、少额折旧资产（40 万日元未满） | [折旧](https://shiwake.isz.ai/tools/genka-shokyaku/?utm_source=github&utm_medium=referral) |
-| [法人税等の計算](docs/corporate-tax.md) | 中小法人税率 15%・23.2%、地方法人税、防卫特别法人税、住民税・事业税 | [法人税等](https://shiwake.isz.ai/tools/hojinzei/?utm_source=github&utm_medium=referral) |
-| [法人の申告・納付期限](docs/shinkoku-kigen.md) | 法人税・消费税・源泉所得税・法定调书・偿却资产申报・算定基础届・年度更新 | [中间申报](https://shiwake.isz.ai/tools/chukan-shinkoku/?utm_source=github&utm_medium=referral) |
-| [電子帳簿保存法のスキャナ保存](docs/denchoho.md) | 200dpi、录入期限、修改删除履历、检索要求、手机拍摄要点 | — |
-| [電子取引データの保存](docs/denshi-torihiki.md) | 邮件 PDF・网页明细的电子保存义务、检索要求、宽限措置 | — |
-| [勘定科目の一覧と仕訳の例](docs/accounts.md) | 常用会计科目、收据分录、会议费与交际费（人均 1 万日元） | [会议费・交际费](https://shiwake.isz.ai/tools/kosaihi/?utm_source=github&utm_medium=referral) |
+| [法人税等の計算](docs/corporate-tax.md) | 中小法人税率 15%・23.2%、地方法人税、防卫特别法人税、住民税・事业税 | [法人税等](https://shiwake.isz.ai/tools/hojinzei/?utm_source=github&utm_medium=referral)・[申报・缴纳期限日历](https://shiwake.isz.ai/tools/shinkoku-kigen/?utm_source=github&utm_medium=referral) |
+| [法人の申告・納付期限](docs/shinkoku-kigen.md) | 法人税・消费税・源泉所得税・法定调书・偿却资产申报・算定基础届・年度更新、延滞税 | [申报・缴纳期限日历（.ics）](https://shiwake.isz.ai/tools/shinkoku-kigen/?utm_source=github&utm_medium=referral)・[延滞税](https://shiwake.isz.ai/tools/entaizei/?utm_source=github&utm_medium=referral)・[中间申报](https://shiwake.isz.ai/tools/chukan-shinkoku/?utm_source=github&utm_medium=referral) |
+| [電子帳簿保存法のスキャナ保存](docs/denchoho.md) | 200dpi、录入期限、修改删除履历、检索要求、手机拍摄要点 | [收据 AI 识别](https://shiwake.isz.ai/tools/receipt-ocr/?utm_source=github&utm_medium=referral)・[请求书 AI 识别](https://shiwake.isz.ai/tools/invoice-ocr/?utm_source=github&utm_medium=referral) |
+| [電子取引データの保存](docs/denshi-torihiki.md) | 邮件 PDF・网页明细的电子保存义务、检索要求、宽限措置 | [请求书 AI 识别](https://shiwake.isz.ai/tools/invoice-ocr/?utm_source=github&utm_medium=referral)・[收据 AI 识别](https://shiwake.isz.ai/tools/receipt-ocr/?utm_source=github&utm_medium=referral) |
+| [勘定科目の一覧と仕訳の例](docs/accounts.md) | 常用会计科目、收据分录、会议费与交际费（人均 1 万日元） | [会计科目・分录示例检索](https://shiwake.isz.ai/tools/kanjo-kamoku/?utm_source=github&utm_medium=referral)・[会议费・交际费](https://shiwake.isz.ai/tools/kosaihi/?utm_source=github&utm_medium=referral)・[印花税额判定](https://shiwake.isz.ai/tools/inshi-zei/?utm_source=github&utm_medium=referral) |
+
+## 面向税理士的免费工具
+
+**[shiwake.isz.ai/tools](https://shiwake.isz.ai/tools/?utm_source=github&utm_medium=referral)** 上的工具全部免费（页面为日语）。
+
+- **AI 识别（免费）**：[收据・小票 AI 识别（注册即可免费 100 张）](https://shiwake.isz.ai/tools/receipt-ocr/?utm_source=github&utm_medium=referral)／[请求书 AI 识别](https://shiwake.isz.ai/tools/invoice-ocr/?utm_source=github&utm_medium=referral)／[存折・银行明细 AI 识别](https://shiwake.isz.ai/tools/tsucho-ocr/?utm_source=github&utm_medium=referral)
+- **会计科目**：[会计科目・分录示例检索（155 种交易）](https://shiwake.isz.ai/tools/kanjo-kamoku/?utm_source=github&utm_medium=referral)
+- **工资・社会保险**：[工资源泉征收税额](https://shiwake.isz.ai/tools/gensen-kyuyo/?utm_source=github&utm_medium=referral)／[社会保险费](https://shiwake.isz.ai/tools/shakai-hoken/?utm_source=github&utm_medium=referral)／[到手工资](https://shiwake.isz.ai/tools/kyuyo-tedori/?utm_source=github&utm_medium=referral)／[奖金源泉征收](https://shiwake.isz.ai/tools/gensen-shoyo/?utm_source=github&utm_medium=referral)／[年末调整](https://shiwake.isz.ai/tools/nencho/?utm_source=github&utm_medium=referral)
+- **报酬**：[报酬・费用的源泉征收（10.21%・含税倒算）](https://shiwake.isz.ai/tools/gensen-houshu/?utm_source=github&utm_medium=referral)
+- **退职金**：[退职金的税金（退职所得扣除・源泉征收・住民税）](https://shiwake.isz.ai/tools/taishoku/?utm_source=github&utm_medium=referral)
+- **年收之壁**：[年收之壁判定（2026 年：住民税 119 万・扶养 136 万・所得税 178 万・社保扶养 130 万／150 万日元）](https://shiwake.isz.ai/tools/nenshu-kabe/?utm_source=github&utm_medium=referral)
+- **消费税・发票**：[消费税（含税・不含税・尾数）](https://shiwake.isz.ai/tools/shohizei/?utm_source=github&utm_medium=referral)／[过渡措置](https://shiwake.isz.ai/tools/keika-sochi/?utm_source=github&utm_medium=referral)／[登记号码校验](https://shiwake.isz.ai/tools/invoice-number/?utm_source=github&utm_medium=referral)／[一般・简易・2 成・3 成比较](https://shiwake.isz.ai/tools/shohizei-hikaku/?utm_source=github&utm_medium=referral)／[中间申报](https://shiwake.isz.ai/tools/chukan-shinkoku/?utm_source=github&utm_medium=referral)
+- **决算**：[折旧](https://shiwake.isz.ai/tools/genka-shokyaku/?utm_source=github&utm_medium=referral)／[法人税等](https://shiwake.isz.ai/tools/hojinzei/?utm_source=github&utm_medium=referral)／[会议费・交际费](https://shiwake.isz.ai/tools/kosaihi/?utm_source=github&utm_medium=referral)
+- **延滞税・期限・印花税**：[延滞税（国税・2026 年为 2.8%／9.1%）](https://shiwake.isz.ai/tools/entaizei/?utm_source=github&utm_medium=referral)／[法人申报・缴纳期限日历（可导出 .ics）](https://shiwake.isz.ai/tools/shinkoku-kigen/?utm_source=github&utm_medium=referral)／[印花税额判定](https://shiwake.isz.ai/tools/inshi-zei/?utm_source=github&utm_medium=referral)
 
 ## 常见问题
 

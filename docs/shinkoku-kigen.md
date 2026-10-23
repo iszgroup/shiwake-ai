@@ -8,6 +8,9 @@
 - 法定調書・源泉徴収票・給与支払報告書・償却資産申告は **1月31日**まで
 - 算定基礎届は **7月1日〜7月10日**、労働保険の年度更新は **6月1日〜7月10日**
 - 国税の期限が土日・祝日・年末年始に当たるときは、その翌日が期限
+- 納付が期限に遅れると**延滞税**がかかる（国税。2026年は納期限の翌日から2か月以内 **年2.8%**、2か月を超える部分 **年9.1%**）
+
+> 決算月を選ぶだけで、その年の期限を一覧にしてカレンダー（.ics）に書き出せます → **[法人の申告・納付期限カレンダー（無料）](https://shiwake.isz.ai/tools/shinkoku-kigen/?utm_source=github&utm_medium=referral)**　｜　遅れたときの金額は **[延滞税の計算ツール](https://shiwake.isz.ai/tools/entaizei/?utm_source=github&utm_medium=referral)**
 
 ## 決算に関する期限（法人）
 
@@ -23,6 +26,7 @@
 - **法人税**: 定款の定め等により、事業年度終了の日の翌日から2か月以内に決算の定時総会が招集されない常況にある法人は、「定款の定め等による申告期限の延長の特例の申請書」を出すと、申告期限が原則1か月延長されます（会計監査人を置いている場合などは延長月数の指定を受けられます）。申請は適用を受けようとする事業年度の終了の日までに行います
 - **消費税**: 法人税の申告期限の延長の特例を受ける法人が「消費税申告期限延長届出書」を出すと、消費税の確定申告期限が1か月延長されます（令和3年3月31日以後に終了する事業年度から）
 - **納付**: 延長されるのは申告の期限で、延長した期間には**利子税**がかかります。実務では本来の期限までに見込みの税額を納める（見込納付）ことが多いです
+- **期限を過ぎた納付**: 法定納期限の翌日から納付の日までの日数に応じて**延滞税**がかかります（2026年は2か月以内 年2.8%、2か月超 年9.1%）。一部納付や修正申告の場合も含めて、[延滞税の計算ツール](https://shiwake.isz.ai/tools/entaizei/?utm_source=github&utm_medium=referral)で計算できます
 
 ## 源泉所得税・住民税の特別徴収
 
@@ -94,6 +98,8 @@ A. 対象は給与・退職手当と税理士・弁護士・司法書士など�
 
 ## 無料で計算する・ISZ™ 仕訳AI を試す
 
+- **[法人の申告・納付期限カレンダー（決算月から一覧・.ics 書き出し）](https://shiwake.isz.ai/tools/shinkoku-kigen/?utm_source=github&utm_medium=referral)**
+- **[延滞税の計算ツール（国税・2.8%／9.1%）](https://shiwake.isz.ai/tools/entaizei/?utm_source=github&utm_medium=referral)**
 - **[法人税等の計算ツール](https://shiwake.isz.ai/tools/hojinzei/?utm_source=github&utm_medium=referral)**
 - **[消費税の中間申告の計算ツール](https://shiwake.isz.ai/tools/chukan-shinkoku/?utm_source=github&utm_medium=referral)**
 - **[年末調整の計算ツール](https://shiwake.isz.ai/tools/nencho/?utm_source=github&utm_medium=referral)**

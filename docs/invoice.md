@@ -80,6 +80,7 @@ A. 基準期間の課税売上高が1億円以下（または特定期間の課�
 
 - **[インボイス登録番号（T番号）のチェックツール](https://shiwake.isz.ai/tools/invoice-number/?utm_source=github&utm_medium=referral)**
 - **[経過措置（80%・70%控除）の計算ツール](https://shiwake.isz.ai/tools/keika-sochi/?utm_source=github&utm_medium=referral)**
+- **[請求書のAI読み取り（登録番号・税率別の金額から仕訳まで）](https://shiwake.isz.ai/tools/invoice-ocr/?utm_source=github&utm_medium=referral)**
 
 **ISZ™ 仕訳AI** は、領収書から登録番号を読み取って検算し、登録番号のない仕入には取引日に応じた経過措置の税区分を自動で付けます。
 → **[無料で試す（証憑100枚まで無料）](https://acc.isz.ai/login?tab=register&utm_source=github&utm_medium=referral&utm_campaign=invoice)**　｜　**[ISZ™ 仕訳AI の詳細](https://shiwake.isz.ai/?utm_source=github&utm_medium=referral)**

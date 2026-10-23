@@ -71,6 +71,8 @@ A. 法人住民税の均等割です。資本金1,000万円以下・従業員50�
 ## 無料で計算する・ISZ™ 仕訳AI を試す
 
 - **[法人税等の計算ツール（中小法人）](https://shiwake.isz.ai/tools/hojinzei/?utm_source=github&utm_medium=referral)**
+- **[法人の申告・納付期限カレンダー（決算月から一覧・.ics 書き出し）](https://shiwake.isz.ai/tools/shinkoku-kigen/?utm_source=github&utm_medium=referral)**
+- **[延滞税の計算ツール](https://shiwake.isz.ai/tools/entaizei/?utm_source=github&utm_medium=referral)**
 
 **ISZ™ 仕訳AI** は、確定した仕訳から試算表・決算書・消費税の区分集計を作り、決算の数字をそのまま確認できます。
 → **[無料で試す（証憑100枚まで無料）](https://acc.isz.ai/login?tab=register&utm_source=github&utm_medium=referral&utm_campaign=corporate-tax)**　｜　**[ISZ™ 仕訳AI の詳細](https://shiwake.isz.ai/?utm_source=github&utm_medium=referral)**

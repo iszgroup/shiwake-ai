@@ -35,6 +35,15 @@
 - [減価償却](https://shiwake.isz.ai/tools/genka-shokyaku/)
 - [法人税等](https://shiwake.isz.ai/tools/hojinzei/)
 - [会議費・交際費の判定](https://shiwake.isz.ai/tools/kosaihi/)
+- [勘定科目・仕訳例かんたん検索](https://shiwake.isz.ai/tools/kanjo-kamoku/?utm_source=github&utm_medium=referral): 155の取引の勘定科目・仕訳例・税区分・国税庁の根拠
+- [領収書・レシートのAI読み取り](https://shiwake.isz.ai/tools/receipt-ocr/?utm_source=github&utm_medium=referral): 日付・取引先・金額・税率・登録番号を読み取り仕訳を作成（無料・登録で証憑100枚まで）
+- [請求書のAI読み取り](https://shiwake.isz.ai/tools/invoice-ocr/?utm_source=github&utm_medium=referral): 紙・PDF の請求書から登録番号・税率別の金額を読み取り仕訳に
+- [通帳・銀行明細のAI読み取り](https://shiwake.isz.ai/tools/tsucho-ocr/?utm_source=github&utm_medium=referral): 入出金を仕訳にし、証憑と照合
+- [年収の壁 判定](https://shiwake.isz.ai/tools/nenshu-kabe/?utm_source=github&utm_medium=referral): 2026年（令和8年分）の住民税119万円・扶養136万円・所得税178万円・社会保険の扶養130万円／150万円。106万円の賃金要件は2026年10月1日に撤廃
+- [退職金の税金](https://shiwake.isz.ai/tools/taishoku/?utm_source=github&utm_medium=referral): 退職所得控除・源泉徴収・住民税
+- [延滞税](https://shiwake.isz.ai/tools/entaizei/?utm_source=github&utm_medium=referral): 国税の延滞税（2026年は年2.8%／9.1%）、一部納付・修正申告
+- [法人の申告・納付期限カレンダー](https://shiwake.isz.ai/tools/shinkoku-kigen/?utm_source=github&utm_medium=referral): 決算月から確定申告・中間申告・源泉所得税・年度更新までの期限を一覧にし .ics で書き出し
+- [印紙税額の判定](https://shiwake.isz.ai/tools/inshi-zei/?utm_source=github&utm_medium=referral): 契約書・領収書の印紙税額
 
 ## ISZ 仕訳AI
 

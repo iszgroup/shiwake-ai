@@ -15,6 +15,8 @@
 5. **人が確認する** — AI が「要確認」とした仕訳だけを、原本と見比べて確定する
 6. **会計ソフトへ** — 弥生・freee・マネーフォワード・TKC などの形式の CSV で取り込む
 
+読み取りから仕訳までの流れは、[領収書・レシート](https://shiwake.isz.ai/tools/receipt-ocr/?utm_source=github&utm_medium=referral)・[請求書](https://shiwake.isz.ai/tools/invoice-ocr/?utm_source=github&utm_medium=referral)・[通帳・銀行明細](https://shiwake.isz.ai/tools/tsucho-ocr/?utm_source=github&utm_medium=referral)の AI 読み取りで実際に試せます（無料）。
+
 ## AI に任せること・人が確認すること
 
 | AI に任せる | 人が確認する |
@@ -56,6 +58,10 @@ A. ISZ™ 仕訳AI では、アップロードされた財務データを AI の
 
 **ISZ™ 仕訳AI** — 領収書を撮って送るだけで、AI が仕訳データを作ります。
 
+- **[領収書・レシートのAI読み取り（登録で証憑100枚まで無料）](https://shiwake.isz.ai/tools/receipt-ocr/?utm_source=github&utm_medium=referral)**
+- **[請求書のAI読み取り（登録番号・税率別の金額から仕訳まで）](https://shiwake.isz.ai/tools/invoice-ocr/?utm_source=github&utm_medium=referral)**
+- **[通帳・銀行明細のAI読み取り（入出金を仕訳に・証憑と照合）](https://shiwake.isz.ai/tools/tsucho-ocr/?utm_source=github&utm_medium=referral)**
+- **[勘定科目・仕訳例かんたん検索（155の取引）](https://shiwake.isz.ai/tools/kanjo-kamoku/?utm_source=github&utm_medium=referral)**
 - **[税理士のための無料計算ツール（源泉徴収・社会保険・消費税・減価償却・法人税など）](https://shiwake.isz.ai/tools/?utm_source=github&utm_medium=referral)**
 
 → **[無料で試す（証憑100枚まで無料）](https://acc.isz.ai/login?tab=register&utm_source=github&utm_medium=referral&utm_campaign=ai-keiri)**　｜　**[ISZ™ 仕訳AI の詳細](https://shiwake.isz.ai/?utm_source=github&utm_medium=referral)**

@@ -18,6 +18,8 @@
 | 確認 | 紙と画面を見比べて全件チェック | 原本と仕訳を並べ、理由付きの「要確認」だけを確認 |
 | 会計ソフトへ | 手入力または転記 | 会計ソフトの取込形式の CSV で一括インポート |
 
+入力と突合の自動化は、[領収書・レシートのAI読み取り](https://shiwake.isz.ai/tools/receipt-ocr/?utm_source=github&utm_medium=referral)・[請求書のAI読み取り](https://shiwake.isz.ai/tools/invoice-ocr/?utm_source=github&utm_medium=referral)・[通帳・銀行明細のAI読み取り](https://shiwake.isz.ai/tools/tsucho-ocr/?utm_source=github&utm_medium=referral)で試せます（無料・登録で証憑100枚まで）。
+
 ## 顧問先からの証憑回収
 
 記帳の遅れの多くは、入力ではなく回収で起きます。回収の方法ごとの特徴は次のとおりです。
@@ -79,6 +81,10 @@ A. ISZ™ 仕訳AI は、弥生会計・freee会計・マネーフォワード �
 
 **ISZ™ 仕訳AI** は、税理士事務所のための記帳自動化 AI です。顧問先には提出用リンクを QR コード・メール・LINE で渡すだけ（アプリのインストールもログインも不要）で、送る前に画質を確認します。届いた証憑は AI が読み取って仕訳にし、「日付_取引先_金額」のファイル名を付けます。アップロードされた財務データは AI の学習には使いません。
 
+- **[領収書・レシートのAI読み取り（登録で証憑100枚まで無料）](https://shiwake.isz.ai/tools/receipt-ocr/?utm_source=github&utm_medium=referral)**
+- **[請求書のAI読み取り（登録番号・税率別の金額から仕訳まで）](https://shiwake.isz.ai/tools/invoice-ocr/?utm_source=github&utm_medium=referral)**
+- **[通帳・銀行明細のAI読み取り（入出金を仕訳に・証憑と照合）](https://shiwake.isz.ai/tools/tsucho-ocr/?utm_source=github&utm_medium=referral)**
+- **[勘定科目・仕訳例かんたん検索（155の取引）](https://shiwake.isz.ai/tools/kanjo-kamoku/?utm_source=github&utm_medium=referral)**
 - **[税理士のための無料計算ツール（源泉徴収・社会保険・消費税・減価償却・法人税など）](https://shiwake.isz.ai/tools/?utm_source=github&utm_medium=referral)**
 
 → **[無料で試す（証憑100枚まで無料）](https://acc.isz.ai/login?tab=register&utm_source=github&utm_medium=referral&utm_campaign=kicho-jidoka)**　｜　**[ISZ™ 仕訳AI の詳細](https://shiwake.isz.ai/?utm_source=github&utm_medium=referral)**

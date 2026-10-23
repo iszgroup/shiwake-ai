@@ -88,6 +88,8 @@ A. 不要です。相当の理由があり、ダウンロードの求めと出�
 
 **ISZ™ 仕訳AI** は、証憑に「日付_取引先_金額」のファイル名を付け、取引年月日・金額・取引先での検索、訂正削除の履歴、証憑ID による原本と仕訳の相互参照、事務処理規程のひな形に対応しています。メールで受け取った PDF もそのまま取り込めます。
 
+- **[請求書のAI読み取り（メールの PDF もそのまま）](https://shiwake.isz.ai/tools/invoice-ocr/?utm_source=github&utm_medium=referral)**
+- **[領収書・レシートのAI読み取り（登録で証憑100枚まで無料）](https://shiwake.isz.ai/tools/receipt-ocr/?utm_source=github&utm_medium=referral)**
 - **[税理士のための無料計算ツール](https://shiwake.isz.ai/tools/?utm_source=github&utm_medium=referral)**
 
 → **[無料で試す（証憑100枚まで無料）](https://acc.isz.ai/login?tab=register&utm_source=github&utm_medium=referral&utm_campaign=denshi-torihiki)**　｜　**[ISZ™ 仕訳AI の詳細](https://shiwake.isz.ai/?utm_source=github&utm_medium=referral)**

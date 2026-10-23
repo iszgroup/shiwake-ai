@@ -9,6 +9,8 @@
 - 税額表の代わりに**電算機計算の特例**の算式も使える（年の途中で変えない）
 - 報酬・料金は **100万円以下 10.21%、100万円を超える部分 20.42%**（復興特別所得税を含む）
 
+> 退職金の源泉徴収（退職所得控除・住民税を含む）は → **[退職金の税金の計算ツール](https://shiwake.isz.ai/tools/taishoku/?utm_source=github&utm_medium=referral)**
+
 ## 給与の源泉徴収税額（月額表・甲欄）
 
 ### 740,000円未満: 表から引く
@@ -110,6 +112,7 @@ A. どちらも認められていますが、年の途中で変えないよう�
 - **[給与の源泉徴収税額の計算ツール（月額表 甲欄・乙欄）](https://shiwake.isz.ai/tools/gensen-kyuyo/?utm_source=github&utm_medium=referral)**
 - **[賞与の源泉徴収税額の計算ツール](https://shiwake.isz.ai/tools/gensen-shoyo/?utm_source=github&utm_medium=referral)**
 - **[報酬・料金の源泉徴収の計算ツール（10.21%・グロスアップ）](https://shiwake.isz.ai/tools/gensen-houshu/?utm_source=github&utm_medium=referral)**
+- **[退職金の税金の計算ツール（退職所得控除・源泉徴収・住民税）](https://shiwake.isz.ai/tools/taishoku/?utm_source=github&utm_medium=referral)**
 
 **ISZ™ 仕訳AI** は、給与計算・年末調整・源泉徴収票の作成まで、記帳と同じ画面で行えます。外注先への支払で源泉徴収の漏れがあれば「要確認」に挙げます。
 → **[無料で試す（証憑100枚まで無料）](https://acc.isz.ai/login?tab=register&utm_source=github&utm_medium=referral&utm_campaign=withholding-tax)**　｜　**[ISZ™ 仕訳AI の詳細](https://shiwake.isz.ai/?utm_source=github&utm_medium=referral)**

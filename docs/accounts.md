@@ -6,6 +6,8 @@
 - 税抜経理では、本体と**仮払消費税等**に分けて記帳する
 - 取引先との飲食は、**1人当たり1万円以下なら会議費**（交際費から除かれる飲食費。2024年4月1日以後の支出）
 
+> 取引の内容から勘定科目と仕訳例を調べるなら → **[勘定科目・仕訳例かんたん検索（155の取引・無料）](https://shiwake.isz.ai/tools/kanjo-kamoku/?utm_source=github&utm_medium=referral)**（タクシー代・サブスク・パソコン・接待・収入印紙・家賃など。仕訳例・税区分・要確認の点・国税庁の根拠付き）
+
 ## よく使う勘定科目
 
 | 勘定科目 | 領収書の例 |
@@ -25,7 +27,7 @@
 | 福利厚生費 | 健康診断、社内の慶弔、全員参加の社内行事 |
 | 車両費 | ガソリン、車検、自動車保険 |
 
-科目の使い分けは事業や事務所の方針で違います。最終的な判断は顧問税理士にご確認ください。
+ここにない取引は、[勘定科目・仕訳例かんたん検索](https://shiwake.isz.ai/tools/kanjo-kamoku/?utm_source=github&utm_medium=referral)で調べられます。収入印紙の金額は[印紙税額の判定ツール](https://shiwake.isz.ai/tools/inshi-zei/?utm_source=github&utm_medium=referral)で確認できます。科目の使い分けは事業や事務所の方針で違います。最終的な判断は顧問税理士にご確認ください。
 
 ## 領収書の仕訳の例
 
@@ -77,8 +79,11 @@ A. 支払手数料または支払報酬が一般的です。個人の税理士�
 
 ## 無料で計算する・ISZ™ 仕訳AI を試す
 
+- **[勘定科目・仕訳例かんたん検索（155の取引）](https://shiwake.isz.ai/tools/kanjo-kamoku/?utm_source=github&utm_medium=referral)**
 - **[会議費・交際費の判定ツール（1人1万円）](https://shiwake.isz.ai/tools/kosaihi/?utm_source=github&utm_medium=referral)**
 - **[経過措置（80%・70%控除）の計算ツール](https://shiwake.isz.ai/tools/keika-sochi/?utm_source=github&utm_medium=referral)**
+- **[印紙税額の判定ツール](https://shiwake.isz.ai/tools/inshi-zei/?utm_source=github&utm_medium=referral)**
+- **[領収書・レシートのAI読み取り（登録で証憑100枚まで無料）](https://shiwake.isz.ai/tools/receipt-ocr/?utm_source=github&utm_medium=referral)**
 
 **ISZ™ 仕訳AI** は、領収書の取引先・品目・人数から勘定科目を判定し、1人1万円を超える飲食費などは理由付きで「要確認」に挙げます。事務所ごとの記帳ルールも登録できます。
 → **[無料で試す（証憑100枚まで無料）](https://acc.isz.ai/login?tab=register&utm_source=github&utm_medium=referral&utm_campaign=accounts)**　｜　**[ISZ™ 仕訳AI の詳細](https://shiwake.isz.ai/?utm_source=github&utm_medium=referral)**

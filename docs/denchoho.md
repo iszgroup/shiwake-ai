@@ -67,6 +67,8 @@ A. 基準期間の売上高が5,000万円以下で、税務職員のダウンロ
 
 **ISZ™ 仕訳AI** は、取引年月日・金額・取引先の検索、訂正削除の履歴、証憑ID による原本と仕訳の相互参照、事務処理規程のひな形に対応しています。顧問先がスマホで撮った写真の画質も、送る前に確認します。
 
+- **[領収書・レシートのAI読み取り（登録で証憑100枚まで無料）](https://shiwake.isz.ai/tools/receipt-ocr/?utm_source=github&utm_medium=referral)**
+- **[請求書のAI読み取り（紙・PDF）](https://shiwake.isz.ai/tools/invoice-ocr/?utm_source=github&utm_medium=referral)**
 - **[税理士のための無料計算ツール（源泉徴収・社会保険・消費税・減価償却など）](https://shiwake.isz.ai/tools/?utm_source=github&utm_medium=referral)**
 
 → **[無料で試す（証憑100枚まで無料）](https://acc.isz.ai/login?tab=register&utm_source=github&utm_medium=referral&utm_campaign=denchoho)**　｜　**[ISZ™ 仕訳AI の詳細](https://shiwake.isz.ai/?utm_source=github&utm_medium=referral)**
