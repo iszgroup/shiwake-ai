@@ -40,6 +40,8 @@
 - **[法人税等の計算ツール（中小法人）](https://shiwake.isz.ai/tools/hojinzei/?utm_source=github&utm_medium=referral)**
 - **[法人の申告・納付期限カレンダー（決算月から一覧・.ics 書き出し）](https://shiwake.isz.ai/tools/shinkoku-kigen/?utm_source=github&utm_medium=referral)**
 - **[延滞税の計算ツール](https://shiwake.isz.ai/tools/entaizei/?utm_source=github&utm_medium=referral)**
+- **[役員報酬の最適額シミュレーション（法人税等＋所得税・住民税＋社会保険料）](https://shiwake.isz.ai/tools/yakuin-hoshu/?utm_source=github&utm_medium=referral)**
+- **[法人成りシミュレーション](https://shiwake.isz.ai/tools/hojinnari/?utm_source=github&utm_medium=referral)**
 - 関連する解説: **[法人税申告書の作り方](https://shiwake.isz.ai/guide/hojinzei-shinkokusho/?utm_source=github&utm_medium=referral)**
 
 **ISZ™ 仕訳AI** は、確定した仕訳から決算書と法人税の申告書（主な別表・地方税の様式）を作り、法人税・消費税は e-Tax 用の申告データ（.xtx）も出力します。

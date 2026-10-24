@@ -45,6 +45,13 @@
 - [延滞税](https://shiwake.isz.ai/tools/entaizei/?utm_source=github&utm_medium=referral): 国税の延滞税（2026年は年2.8%／9.1%）、一部納付・修正申告
 - [法人の申告・納付期限カレンダー](https://shiwake.isz.ai/tools/shinkoku-kigen/?utm_source=github&utm_medium=referral): 決算月から確定申告・中間申告・源泉所得税・年度更新までの期限を一覧にし .ics で書き出し
 - [印紙税額の判定](https://shiwake.isz.ai/tools/inshi-zei/?utm_source=github&utm_medium=referral): 契約書・領収書の印紙税額
+- [ふるさと納税の控除上限額](https://shiwake.isz.ai/tools/furusato/?utm_source=github&utm_medium=referral): 2026年中の寄附の上限（住民税所得割の20%・特例控除割合から逆算。令和8年分は所得税の基礎控除104万円で上限が下がる人がいる）、年収・家族構成別の早見表
+- [所得税・住民税の計算（個人）](https://shiwake.isz.ai/tools/shotokuzei-juminzei/?utm_source=github&utm_medium=referral): 令和8年分の所得税と令和9年度の住民税（基礎控除43万円・調整控除・均等割）、控除ごとの所得税と住民税の違い
+- [役員報酬の最適額](https://shiwake.isz.ai/tools/yakuin-hoshu/?utm_source=github&utm_medium=referral): 法人税等＋所得税・住民税＋社会保険料（労使）の合計が最も少ない月額、必要な手取りを満たす月額
+- [法人成りシミュレーション](https://shiwake.isz.ai/tools/hojinnari/?utm_source=github&utm_medium=referral): 個人事業（所得税・住民税・個人事業税・国保・国民年金）と法人（役員報酬の最適額）の1年間の負担の比較
+- [法定調書の提出要否](https://shiwake.isz.ai/tools/hotei-yohi/?utm_source=github&utm_medium=referral): 令和8年分の提出範囲（給与所得の源泉徴収票のみなし提出、退職所得の源泉徴収票は全員分に拡大、報酬5万円・不動産15万円・譲受け100万円）、提出期限 令和9年2月1日
+- [償却資産（固定資産税）の税額・免税点](https://shiwake.isz.ai/tools/shokyaku-shisan/?utm_source=github&utm_medium=referral): 評価額（前年中取得 1−r/2・前年前 1−r・最低5%）、令和9年度から免税点180万円
+- [少額減価償却資産の判定（年300万円の上限）](https://shiwake.isz.ai/tools/shogaku-shisan/?utm_source=github&utm_medium=referral): 10万円未満・一括償却資産・中小企業者等の特例（40万円未満）への振り分け
 
 ## ISZ 仕訳AI
 

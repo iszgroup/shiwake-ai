@@ -39,6 +39,7 @@
 - **[賞与の源泉徴収税額の計算ツール](https://shiwake.isz.ai/tools/gensen-shoyo/?utm_source=github&utm_medium=referral)**
 - **[報酬・料金の源泉徴収の計算ツール（10.21%・グロスアップ）](https://shiwake.isz.ai/tools/gensen-houshu/?utm_source=github&utm_medium=referral)**
 - **[退職金の税金の計算ツール（退職所得控除・源泉徴収・住民税）](https://shiwake.isz.ai/tools/taishoku/?utm_source=github&utm_medium=referral)**
+- **[法定調書の提出要否 判定（令和8年分: 源泉徴収票のみなし提出・退職所得の源泉徴収票は全員分）](https://shiwake.isz.ai/tools/hotei-yohi/?utm_source=github&utm_medium=referral)**
 
 **ISZ™ 仕訳AI** は、給与計算・年末調整・源泉徴収票の作成まで行えます。決算前の要確認リストに、源泉徴収の漏れの候補を理由付きで挙げます。
 → **[無料で試す（証憑100枚まで無料）](https://acc.isz.ai/login?tab=register&utm_source=github&utm_medium=referral&utm_campaign=withholding-tax)**　｜　**[ISZ™ 仕訳AI の詳細](https://shiwake.isz.ai/?utm_source=github&utm_medium=referral)**
