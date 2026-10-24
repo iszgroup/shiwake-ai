@@ -52,6 +52,9 @@
 - [法定調書の提出要否](https://shiwake.isz.ai/tools/hotei-yohi/?utm_source=github&utm_medium=referral): 令和8年分の提出範囲（給与所得の源泉徴収票のみなし提出、退職所得の源泉徴収票は全員分に拡大、報酬5万円・不動産15万円・譲受け100万円）、提出期限 令和9年2月1日
 - [償却資産（固定資産税）の税額・免税点](https://shiwake.isz.ai/tools/shokyaku-shisan/?utm_source=github&utm_medium=referral): 評価額（前年中取得 1−r/2・前年前 1−r・最低5%）、令和9年度から免税点180万円
 - [少額減価償却資産の判定（年300万円の上限）](https://shiwake.isz.ai/tools/shogaku-shisan/?utm_source=github&utm_medium=referral): 10万円未満・一括償却資産・中小企業者等の特例（40万円未満）への振り分け
+- [請求書の作成（適格請求書）](https://shiwake.isz.ai/tools/seikyusho/?utm_source=github&utm_medium=referral): インボイスの記載事項・税率ごとに1回の端数処理・報酬の源泉徴収、印刷・PDF保存
+- [顧問先への資料依頼リスト](https://shiwake.isz.ai/tools/shiryo-irai/?utm_source=github&utm_medium=referral): 法人の決算・個人の確定申告・年末調整で集める資料（印刷・CSV）
+- [法人の決算チェックリスト](https://shiwake.isz.ai/tools/kessan-check/?utm_source=github&utm_medium=referral): 残高確認・決算整理・税務の確認・申告までの27項目（印刷・CSV）
 
 ## ISZ 仕訳AI
 
