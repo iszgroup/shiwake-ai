@@ -74,6 +74,8 @@ ISZ™ 仕訳AI は、この**「打ち込み」と「税区分の判定」を A
 
 新規登録だけで**証憑100枚まで無料**（クレジットカード不要）で試せます → **[無料で試す](https://acc.isz.ai/login?tab=register&utm_source=github&utm_medium=referral&utm_campaign=readme)**
 
+操作の流れは **[使い方動画（ISZ 仕訳AI 操作ガイド）](https://shiwake.isz.ai/tutorial/?utm_source=github&utm_medium=referral)** で見られます（第0回は全体の流れ・約5分、第1回から機能ごとに順次公開）。
+
 料金・導入事例・機能の詳細は **[shiwake.isz.ai](https://shiwake.isz.ai/?utm_source=github&utm_medium=referral)** をご覧ください。
 
 ---

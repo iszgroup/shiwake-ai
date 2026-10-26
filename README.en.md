@@ -81,7 +81,7 @@ These guides explain general calculation methods and are not individual tax advi
 
 ## About ISZ GROUP
 
-ISZ™ Shiwake AI is provided by [ISZ.AI](https://isz.ai) (ISZ GROUP), a member of the Osaka Innovation Hub (OIH). Website: [shiwake.isz.ai](https://shiwake.isz.ai/?utm_source=github&utm_medium=referral) ｜ [Intro video](https://youtu.be/S9SmAAVw3MU)
+ISZ™ Shiwake AI is provided by [ISZ.AI](https://isz.ai) (ISZ GROUP), a member of the Osaka Innovation Hub (OIH). Website: [shiwake.isz.ai](https://shiwake.isz.ai/?utm_source=github&utm_medium=referral) ｜ [Intro video](https://youtu.be/S9SmAAVw3MU) ｜ [How-to videos (Japanese)](https://shiwake.isz.ai/tutorial/?utm_source=github&utm_medium=referral)
 
 ## License
 

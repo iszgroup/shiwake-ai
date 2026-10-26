@@ -81,7 +81,7 @@ A. 使用月额表「740,000 円以上」栏的算式：区间起点的税额 �
 
 ## 关于 ISZ GROUP
 
-ISZ™ 仕訳AI 由 [ISZ.AI](https://isz.ai)（ISZ GROUP）提供，大阪产业局「大阪创新中心（OIH）」会员企业。官网 [shiwake.isz.ai](https://shiwake.isz.ai/?utm_source=github&utm_medium=referral) ｜ [介绍视频](https://youtu.be/S9SmAAVw3MU)
+ISZ™ 仕訳AI 由 [ISZ.AI](https://isz.ai)（ISZ GROUP）提供，大阪产业局「大阪创新中心（OIH）」会员企业。官网 [shiwake.isz.ai](https://shiwake.isz.ai/?utm_source=github&utm_medium=referral) ｜ [介绍视频](https://youtu.be/S9SmAAVw3MU) ｜ [操作教程视频（日语）](https://shiwake.isz.ai/tutorial/?utm_source=github&utm_medium=referral)
 
 ## 许可
 

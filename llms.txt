@@ -60,6 +60,7 @@
 ## ISZ 仕訳AI
 
 - [ISZ™ 仕訳AI 公式サイト](https://shiwake.isz.ai/): 機能・料金・導入事例
+- [使い方動画（ISZ 仕訳AI 操作ガイド）](https://shiwake.isz.ai/tutorial/): YouTube の操作ガイド。第0回は登録から AI 仕訳・決算書・法人税と消費税の e-Tax 申告データ（.xtx）までの全体の流れ（約5分）、第1回から機能ごとに順次公開
 - [無料で試す（証憑100枚まで無料・カード不要）](https://acc.isz.ai/login?tab=register)
 - [README（日本語）](https://github.com/iszgroup/shiwake-ai/blob/main/README.md)
 - [README（English）](https://github.com/iszgroup/shiwake-ai/blob/main/README.en.md)
