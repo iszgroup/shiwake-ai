@@ -40,5 +40,5 @@
 - **[経過措置（80%・70%控除）の計算ツール](https://shiwake.isz.ai/tools/keika-sochi/?utm_source=github&utm_medium=referral)**
 - **[請求書のAI読み取り（登録番号・税率別の金額から仕訳まで）](https://shiwake.isz.ai/tools/invoice-ocr/?utm_source=github&utm_medium=referral)**
 
-**ISZ™ 仕訳AI** は、領収書から登録番号を読み取り、軽減税率・経過措置（80%→70%）の税区分を付けた仕訳の下書きを作ります。
+**ISZ™ 仕訳AI** は、領収書から登録番号を読み取り、軽減税率・経過措置（80%→70%）の税区分を付けた仕訳の下書きを作ります。自社が出す請求書（適格請求書の記載事項、税率ごとに1回の端数処理）の作成・PDF と、通帳の入金との消込にも対応しています。
 → **[無料で試す（証憑100枚まで無料）](https://acc.isz.ai/login?tab=register&utm_source=github&utm_medium=referral&utm_campaign=invoice)**　｜　**[ISZ™ 仕訳AI の詳細](https://shiwake.isz.ai/?utm_source=github&utm_medium=referral)**
