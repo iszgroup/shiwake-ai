@@ -32,6 +32,17 @@
 
 → **完全版: [勘定科目の一覧と仕訳の例](https://shiwake.isz.ai/guide/kanjo-kamoku/?utm_source=github&utm_medium=referral)**（科目一覧、8%・10%混在のレシート、外注費の源泉徴収、パソコン、交際費の損金不算入額）
 
+## 自分で記帳・決算する会社のための入門（全11回）
+
+ひとり社長・マイクロ法人・合同会社が、記帳から決算・申告まで自分で進めるための入門シリーズです。
+
+- 複式簿記は、1つの取引を左（借方）と右（貸方）の2つの面から書く方法。**資産と費用は増えたら左、負債・純資産・収益は増えたら右**
+- 社長が個人のお金で会社の経費を払ったら、貸方は **役員借入金**（すぐ精算するなら未払金）。立替金は会社が他の人の分を払ったときの資産の科目で、向きが反対
+- 役員報酬は毎月同じ額（定期同額給与）。改定は原則、**会計期間の始まりから3か月以内**
+- 決算整理は、在庫・減価償却・未払・前払・未払消費税等・未払法人税等の順。法人税等は最後に計上
+
+→ **完全版: [法人の決算を自分でやる方法（全11回の入門）](https://shiwake.isz.ai/guide/jibun-hojin-kessan/?utm_source=github&utm_medium=referral)**（[複式簿記とは](https://shiwake.isz.ai/guide/fukushiki-boki/?utm_source=github&utm_medium=referral)・[勘定科目の決め方](https://shiwake.isz.ai/guide/kanjo-kamoku-kimekata/?utm_source=github&utm_medium=referral)・[領収書の仕訳と役員借入金](https://shiwake.isz.ai/guide/keihi-shiwake/?utm_source=github&utm_medium=referral)・[通帳の仕訳と現金出納帳](https://shiwake.isz.ai/guide/tsucho-shiwake/?utm_source=github&utm_medium=referral)・[役員報酬の決め方と仕訳](https://shiwake.isz.ai/guide/yakuin-hoshu-shiwake/?utm_source=github&utm_medium=referral)・[試算表](https://shiwake.isz.ai/guide/shisanhyo/?utm_source=github&utm_medium=referral)・[決算整理仕訳](https://shiwake.isz.ai/guide/kessan-seiri-shiwake/?utm_source=github&utm_medium=referral)・[決算書の見方](https://shiwake.isz.ai/guide/kessansho-mikata/?utm_source=github&utm_medium=referral)・[消費税と地方税の申告](https://shiwake.isz.ai/guide/shohizei-chihozei-shinkoku/?utm_source=github&utm_medium=referral)）
+
 ---
 
 ## 無料で計算する・ISZ™ 仕訳AI を試す
