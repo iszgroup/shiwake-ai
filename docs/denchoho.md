@@ -1,6 +1,6 @@
 # 電子帳簿保存法のスキャナ保存の要件 — 解像度200dpi・入力期間・タイムスタンプ・検索とスマホ撮影の注意点
 
-→ **完全版（計算例・よくある質問・出典付き）: [電子帳簿保存法のスキャナ保存の要件 — 200dpi・入力期間・タイムスタンプ・検索とスマホ撮影の注意](https://shiwake.isz.ai/guide/denchoho-scanner/?utm_source=github&utm_medium=referral)**
+→ **完全版（計算例・よくある質問・出典付き）: [電子帳簿保存法のスキャナ保存の要件 — 200dpi・入力期間・タイムスタンプ・検索とスマホ撮影の注意](https://shiwake.ai/guide/denchoho-scanner/?utm_source=github&utm_medium=referral)**
 
 **要点**
 
@@ -24,14 +24,14 @@
 
 200dpi の画素数の目安は（縦mm ÷ 25.4 × 200）×（横mm ÷ 25.4 × 200）。A4 で約387万、はがき大で約96万画素です。書類は1枚ずつ画面いっぱいに撮ります。
 
-→ **完全版（計算例・よくある質問・出典付き）: [電子帳簿保存法のスキャナ保存の要件](https://shiwake.isz.ai/guide/denchoho-scanner/?utm_source=github&utm_medium=referral)**
+→ **完全版（計算例・よくある質問・出典付き）: [電子帳簿保存法のスキャナ保存の要件](https://shiwake.ai/guide/denchoho-scanner/?utm_source=github&utm_medium=referral)**
 
 ---
 
 ## 無料で試す・関連ツール
 
-- **[領収書・レシートのAI読み取り（登録で証憑100枚まで無料）](https://shiwake.isz.ai/tools/receipt-ocr/?utm_source=github&utm_medium=referral)**
-- **[請求書のAI読み取り（紙・PDF）](https://shiwake.isz.ai/tools/invoice-ocr/?utm_source=github&utm_medium=referral)**
-- **[税理士のための無料計算ツール（源泉徴収・社会保険・消費税・減価償却など）](https://shiwake.isz.ai/tools/?utm_source=github&utm_medium=referral)**
+- **[領収書・レシートのAI読み取り（登録で証憑100枚まで無料）](https://shiwake.ai/tools/receipt-ocr/?utm_source=github&utm_medium=referral)**
+- **[請求書のAI読み取り（紙・PDF）](https://shiwake.ai/tools/invoice-ocr/?utm_source=github&utm_medium=referral)**
+- **[税理士のための無料計算ツール（源泉徴収・社会保険・消費税・減価償却など）](https://shiwake.ai/tools/?utm_source=github&utm_medium=referral)**
 
-→ **[無料で試す（証憑100枚まで無料）](https://acc.isz.ai/login?tab=register&utm_source=github&utm_medium=referral&utm_campaign=denchoho)**　｜　**[ISZ™ 仕訳AI の詳細](https://shiwake.isz.ai/?utm_source=github&utm_medium=referral)**
+→ **[無料で試す（証憑100枚まで無料）](https://acc.isz.ai/login?tab=register&utm_source=github&utm_medium=referral&utm_campaign=denchoho)**　｜　**[ISZ™ 仕訳AI の詳細](https://shiwake.ai/?utm_source=github&utm_medium=referral)**

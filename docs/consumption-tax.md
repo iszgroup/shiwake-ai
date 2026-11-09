@@ -1,6 +1,6 @@
 # 消費税の計算方法（2026年版）— 税込・税抜、納付税額、2割特例・3割特例・簡易課税
 
-→ **完全版（計算例・よくある質問・出典付き）: [消費税の計算方法（2026年版）— 税込・税抜、納付税額、2割特例・3割特例・簡易課税の比較](https://shiwake.isz.ai/guide/shohizei/?utm_source=github&utm_medium=referral)**
+→ **完全版（計算例・よくある質問・出典付き）: [消費税の計算方法（2026年版）— 税込・税抜、納付税額、2割特例・3割特例・簡易課税の比較](https://shiwake.ai/guide/shohizei/?utm_source=github&utm_medium=referral)**
 
 **要点**
 
@@ -32,15 +32,15 @@
 
 中間申告は、直前の課税期間の消費税額（国税）が48万円超で年1回、400万円超で年3回、4,800万円超で年11回です。
 
-→ **完全版（計算例・よくある質問・出典付き）: [消費税の計算方法（2026年版）](https://shiwake.isz.ai/guide/shohizei/?utm_source=github&utm_medium=referral)**
+→ **完全版（計算例・よくある質問・出典付き）: [消費税の計算方法（2026年版）](https://shiwake.ai/guide/shohizei/?utm_source=github&utm_medium=referral)**
 
 ---
 
 ## 無料で計算する・ISZ™ 仕訳AI を試す
 
-- **[消費税の計算ツール（税込・税抜・インボイスの端数処理）](https://shiwake.isz.ai/tools/shohizei/?utm_source=github&utm_medium=referral)**
-- **[一般課税・簡易課税・2割特例・3割特例の比較ツール](https://shiwake.isz.ai/tools/shohizei-hikaku/?utm_source=github&utm_medium=referral)**
-- **[消費税の中間申告の計算ツール](https://shiwake.isz.ai/tools/chukan-shinkoku/?utm_source=github&utm_medium=referral)**
+- **[消費税の計算ツール（税込・税抜・インボイスの端数処理）](https://shiwake.ai/tools/shohizei/?utm_source=github&utm_medium=referral)**
+- **[一般課税・簡易課税・2割特例・3割特例の比較ツール](https://shiwake.ai/tools/shohizei-hikaku/?utm_source=github&utm_medium=referral)**
+- **[消費税の中間申告の計算ツール](https://shiwake.ai/tools/chukan-shinkoku/?utm_source=github&utm_medium=referral)**
 
 **ISZ™ 仕訳AI** は、領収書の税率（8%・10%）と登録番号を読み取り、税区分付きの仕訳の下書きを作ります。
-→ **[無料で試す（証憑100枚まで無料）](https://acc.isz.ai/login?tab=register&utm_source=github&utm_medium=referral&utm_campaign=consumption-tax)**　｜　**[ISZ™ 仕訳AI の詳細](https://shiwake.isz.ai/?utm_source=github&utm_medium=referral)**
+→ **[無料で試す（証憑100枚まで無料）](https://acc.isz.ai/login?tab=register&utm_source=github&utm_medium=referral&utm_campaign=consumption-tax)**　｜　**[ISZ™ 仕訳AI の詳細](https://shiwake.ai/?utm_source=github&utm_medium=referral)**

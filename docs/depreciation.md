@@ -1,6 +1,6 @@
 # 減価償却の計算方法 — 定額法・200%定率法・少額減価償却資産（令和8年4月から40万円未満）・一括償却資産
 
-→ **完全版（計算例・よくある質問・出典付き）: [減価償却の計算方法 — 定額法・200%定率法、少額減価償却資産（40万円未満）、一括償却資産、償却資産申告](https://shiwake.isz.ai/guide/genka-shokyaku/?utm_source=github&utm_medium=referral)**
+→ **完全版（計算例・よくある質問・出典付き）: [減価償却の計算方法 — 定額法・200%定率法、少額減価償却資産（40万円未満）、一括償却資産、償却資産申告](https://shiwake.ai/guide/genka-shokyaku/?utm_source=github&utm_medium=referral)**
 
 **要点**
 
@@ -33,16 +33,16 @@
 
 例: 1,000,000円・耐用年数5年・定率法 → 400,000 → 240,000 → 144,000 → 108,000（4年目に改定）→ 107,999円
 
-→ **完全版: [減価償却の計算方法（期中取得の月割・中古資産の耐用年数・償却資産申告の計算例）](https://shiwake.isz.ai/guide/genka-shokyaku/?utm_source=github&utm_medium=referral)**
+→ **完全版: [減価償却の計算方法（期中取得の月割・中古資産の耐用年数・償却資産申告の計算例）](https://shiwake.ai/guide/genka-shokyaku/?utm_source=github&utm_medium=referral)**
 
 ---
 
 ## 無料で計算する・ISZ™ 仕訳AI を試す
 
-- **[減価償却の計算ツール（定額法・200%定率法・少額資産の判定）](https://shiwake.isz.ai/tools/genka-shokyaku/?utm_source=github&utm_medium=referral)**
-- **[法人税等の計算ツール](https://shiwake.isz.ai/tools/hojinzei/?utm_source=github&utm_medium=referral)**
-- **[少額減価償却資産の判定（10万・20万・40万円、年300万円の上限）](https://shiwake.isz.ai/tools/shogaku-shisan/?utm_source=github&utm_medium=referral)**
-- **[償却資産（固定資産税）の評価額・税額（令和9年度から免税点180万円）](https://shiwake.isz.ai/tools/shokyaku-shisan/?utm_source=github&utm_medium=referral)**
+- **[減価償却の計算ツール（定額法・200%定率法・少額資産の判定）](https://shiwake.ai/tools/genka-shokyaku/?utm_source=github&utm_medium=referral)**
+- **[法人税等の計算ツール](https://shiwake.ai/tools/hojinzei/?utm_source=github&utm_medium=referral)**
+- **[少額減価償却資産の判定（10万・20万・40万円、年300万円の上限）](https://shiwake.ai/tools/shogaku-shisan/?utm_source=github&utm_medium=referral)**
+- **[償却資産（固定資産税）の評価額・税額（令和9年度から免税点180万円）](https://shiwake.ai/tools/shokyaku-shisan/?utm_source=github&utm_medium=referral)**
 
 **ISZ™ 仕訳AI** は、10万円以上の支出を資産計上の候補として「要確認」に挙げ、固定資産台帳から減価償却費と償却資産申告書を作ります。
-→ **[無料で試す（証憑100枚まで無料）](https://acc.isz.ai/login?tab=register&utm_source=github&utm_medium=referral&utm_campaign=depreciation)**　｜　**[ISZ™ 仕訳AI の詳細](https://shiwake.isz.ai/?utm_source=github&utm_medium=referral)**
+→ **[無料で試す（証憑100枚まで無料）](https://acc.isz.ai/login?tab=register&utm_source=github&utm_medium=referral&utm_campaign=depreciation)**　｜　**[ISZ™ 仕訳AI の詳細](https://shiwake.ai/?utm_source=github&utm_medium=referral)**

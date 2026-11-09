@@ -1,6 +1,6 @@
 # 所得税と年末調整の計算方法（令和8年分）— 給与所得控除・基礎控除・年収の壁
 
-→ **完全版（計算例・よくある質問・出典付き）: [所得税と年末調整の計算方法（令和8年分）— 給与所得控除・基礎控除・年収の壁](https://shiwake.isz.ai/guide/shotokuzei-nencho/?utm_source=github&utm_medium=referral)**
+→ **完全版（計算例・よくある質問・出典付き）: [所得税と年末調整の計算方法（令和8年分）— 給与所得控除・基礎控除・年収の壁](https://shiwake.ai/guide/shotokuzei-nencho/?utm_source=github&utm_medium=referral)**
 
 **要点**
 
@@ -29,7 +29,7 @@
 | 特定親族特別控除がなくなる（19〜22歳） | — | 188万円超 | 197万円超 |
 | 勤労学生控除が受けられなくなる | 130万円超 | 150万円超 | 163万円超 |
 
-→ **完全版（計算例・よくある質問・出典付き）: [所得税と年末調整の計算方法（令和8年分）](https://shiwake.isz.ai/guide/shotokuzei-nencho/?utm_source=github&utm_medium=referral)**
+→ **完全版（計算例・よくある質問・出典付き）: [所得税と年末調整の計算方法（令和8年分）](https://shiwake.ai/guide/shotokuzei-nencho/?utm_source=github&utm_medium=referral)**
 
 ## 個人事業主の確定申告（ISZ 仕訳AI での手順）
 
@@ -37,18 +37,18 @@
 - 事業の売上・経費は仕訳から青色申告決算書に。入れるのは本人の情報・青色申告の区分と、「はい／いいえ」の質問で「はい」にした項目（給与・株・FX・土地建物・住宅ローン・修正申告など）だけ
 - 出し方は e-Tax ソフトに読み込める申告データ（.xtx）か PDF（紙）。e-Tax への送信と個人番号の入力は e-Tax ソフト側で行う。対応は令和7年分・令和8年分
 
-→ **完全版（画面つきの手順・よくあるケースの答え方・対応していないケース）: [個人事業主の確定申告のやり方（ISZ 仕訳AI）](https://shiwake.isz.ai/guide/kojin-kakutei-shinkoku-app/?utm_source=github&utm_medium=referral)**
+→ **完全版（画面つきの手順・よくあるケースの答え方・対応していないケース）: [個人事業主の確定申告のやり方（ISZ 仕訳AI）](https://shiwake.ai/guide/kojin-kakutei-shinkoku-app/?utm_source=github&utm_medium=referral)**
 
 ---
 
 ## 無料で計算する・ISZ™ 仕訳AI を試す
 
-- **[年収の壁 判定ツール（119万・136万・178万・130万・150万）](https://shiwake.isz.ai/tools/nenshu-kabe/?utm_source=github&utm_medium=referral)**
-- **[年末調整の計算ツール](https://shiwake.isz.ai/tools/nencho/?utm_source=github&utm_medium=referral)**
-- **[給与の手取りの計算ツール](https://shiwake.isz.ai/tools/kyuyo-tedori/?utm_source=github&utm_medium=referral)**
-- **[所得税・住民税の計算ツール（令和8年分の所得税・令和9年度の住民税）](https://shiwake.isz.ai/tools/shotokuzei-juminzei/?utm_source=github&utm_medium=referral)**
-- **[ふるさと納税の控除上限額（2026年中の寄附・年収・家族構成別の早見表）](https://shiwake.isz.ai/tools/furusato/?utm_source=github&utm_medium=referral)**
-- **[法人成りシミュレーション（個人事業と法人の税金・社会保険料の比較）](https://shiwake.isz.ai/tools/hojinnari/?utm_source=github&utm_medium=referral)**
+- **[年収の壁 判定ツール（119万・136万・178万・130万・150万）](https://shiwake.ai/tools/nenshu-kabe/?utm_source=github&utm_medium=referral)**
+- **[年末調整の計算ツール](https://shiwake.ai/tools/nencho/?utm_source=github&utm_medium=referral)**
+- **[給与の手取りの計算ツール](https://shiwake.ai/tools/kyuyo-tedori/?utm_source=github&utm_medium=referral)**
+- **[所得税・住民税の計算ツール（令和8年分の所得税・令和9年度の住民税）](https://shiwake.ai/tools/shotokuzei-juminzei/?utm_source=github&utm_medium=referral)**
+- **[ふるさと納税の控除上限額（2026年中の寄附・年収・家族構成別の早見表）](https://shiwake.ai/tools/furusato/?utm_source=github&utm_medium=referral)**
+- **[法人成りシミュレーション（個人事業と法人の税金・社会保険料の比較）](https://shiwake.ai/tools/hojinnari/?utm_source=github&utm_medium=referral)**
 
 **ISZ™ 仕訳AI** は、給与計算から年末調整、源泉徴収票、法定調書合計表・支払調書の作成まで行えます。
-→ **[無料で試す（証憑100枚まで無料）](https://acc.isz.ai/login?tab=register&utm_source=github&utm_medium=referral&utm_campaign=income-tax)**　｜　**[ISZ™ 仕訳AI の詳細](https://shiwake.isz.ai/?utm_source=github&utm_medium=referral)**
+→ **[無料で試す（証憑100枚まで無料）](https://acc.isz.ai/login?tab=register&utm_source=github&utm_medium=referral&utm_campaign=income-tax)**　｜　**[ISZ™ 仕訳AI の詳細](https://shiwake.ai/?utm_source=github&utm_medium=referral)**

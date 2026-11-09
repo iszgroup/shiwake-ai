@@ -1,69 +1,69 @@
 # ISZ 仕訳AI
 
-> ISZ™ 仕訳AI（https://shiwake.isz.ai）は、領収書・請求書・通帳を撮って送るだけで、AI が勘定科目・税区分・摘要の付いた仕訳データを作る、日本の税理士事務所と中小企業のための AI経理（記帳自動化）サービスです。弥生会計・freee・マネーフォワード クラウド・TKC・JDL・勘定奉行の取込形式の CSV を出力し、インボイス制度（登録番号・経過措置）と電子帳簿保存法に対応し、試算表・決算書から法人税・地方税・消費税の申告書（法人税・消費税は e-Tax 用データ）まで作成します。AI は税務判断をせず、仕訳ドラフトの作成と要確認箇所の抽出までを担います。新規登録で証憑100枚まで無料。解説の完全版は https://shiwake.isz.ai/guide/ にあります。このリポジトリは、日本の税金・社会保険の計算方法（2026年・令和8年版）を計算式・例・一次資料の出典付きでまとめた日本語の知識ベースです（CC BY 4.0、出典表示: ISZ GROUP）。
+> ISZ™ 仕訳AI（https://shiwake.ai）は、領収書・請求書・通帳を撮って送るだけで、AI が勘定科目・税区分・摘要の付いた仕訳データを作る、日本の税理士事務所と中小企業のための AI経理（記帳自動化）サービスです。弥生会計・freee・マネーフォワード クラウド・TKC・JDL・勘定奉行の取込形式の CSV を出力し、インボイス制度（登録番号・経過措置）と電子帳簿保存法に対応し、試算表・決算書から法人税・地方税・消費税の申告書（法人税・消費税は e-Tax 用データ）まで作成します。AI は税務判断をせず、仕訳ドラフトの作成と要確認箇所の抽出までを担います。新規登録で証憑100枚まで無料。解説の完全版は https://shiwake.ai/guide/ にあります。このリポジトリは、日本の税金・社会保険の計算方法（2026年・令和8年版）を計算式・例・一次資料の出典付きでまとめた日本語の知識ベースです（CC BY 4.0、出典表示: ISZ GROUP）。
 
-## 解説記事（日本語・完全版は shiwake.isz.ai/guide/）
+## 解説記事（日本語・完全版は shiwake.ai/guide/）
 
-- [AI経理とは](https://shiwake.isz.ai/guide/ai-jidou-shiwake/): 仕訳の自動化の流れ、AI に任せること・人が確認すること、導入のポイント
-- [記帳代行・記帳の自動化](https://shiwake.isz.ai/guide/kicho-jidoka/): 税理士事務所の入力業務を減らす方法、顧問先からの証憑回収、会計ソフト（弥生・freee・MF・TKC）への CSV 取込
-- [消費税の計算](https://shiwake.isz.ai/guide/shohizei/): 税込・税抜の換算、インボイスの端数処理（請求書ごと・税率ごとに1回）、一般課税・簡易課税・2割特例・3割特例（個人事業者・令和9〜10年分）、中間申告
-- [インボイスの登録番号と経過措置](https://shiwake.isz.ai/guide/invoice/): T＋13桁の登録番号、法人番号のチェックディジット、免税事業者からの仕入（2026年9月30日まで80%、2026年10月1日から70%控除）、少額特例
-- [インボイス経過措置70%の仕訳例](https://shiwake.isz.ai/guide/invoice-keika-shiwake/): 2026年10月からの70%控除、9月・10月をまたぐ請求書の分け方、少額資産・交際費1万円の判定、簡易課税の特例、決算時の雑損失と申告調整
-- [源泉徴収税額の計算](https://shiwake.isz.ai/guide/gensen-choshu/): 令和8年分 月額表（740,000円以上は「区切りの税額＋超える金額×◯%」の算式、扶養7人超は1人1,610円控除）、電算機計算の特例、賞与の算出率、報酬・料金の10.21%・20.42%
-- [社会保険料の計算](https://shiwake.isz.ai/guide/shakai-hoken/): 標準報酬月額、協会けんぽ（令和8年度）、介護保険1.62%、子ども・子育て支援金0.23%（2026年4月分から）、厚生年金18.3%、雇用保険
-- [所得税と年末調整](https://shiwake.isz.ai/guide/shotokuzei-nencho/): 速算表、給与所得控除（令和8年分 最低74万円）、基礎控除（令和8年分 合計所得489万円以下で104万円）、年末調整の例
-- [個人事業主の確定申告のやり方（ISZ 仕訳AI）](https://shiwake.isz.ai/guide/kojin-kakutei-shinkoku-app/): 帳簿から青色申告決算書・確定申告書を作り、e-Tax ソフトに読み込める .xtx か PDF で出す4段階の手順（画面つき）
-- [減価償却の計算](https://shiwake.isz.ai/guide/genka-shokyaku/): 定額法・200%定率法（保証率・改定償却率）、少額減価償却資産（令和8年4月1日以後の取得は40万円未満）、一括償却資産、耐用年数
-- [法人税等の計算](https://shiwake.isz.ai/guide/hojinzei/): 中小法人の法人税15%・23.2%、地方法人税10.3%、防衛特別法人税4%、法人住民税、事業税・特別法人事業税、所得別の税額例
-- [法人税申告書の作り方](https://shiwake.isz.ai/guide/hojinzei-shinkokusho/): 申告書一式（別表一・二・四・五(一)(二)・七(一)・十五・十六、勘定科目内訳明細書①〜⑯、法人事業概況説明書、地方税 第六号・第二十号様式）、作成の順番、別表四と別表五(一)の検算、申告期限の延長、e-Tax（大法人は義務・税理士の代理送信）
-- [法人の申告・納付期限の一覧](https://shiwake.isz.ai/guide/shinkoku-kigen/): 法人税・消費税（決算日の翌日から2か月）、申告期限の延長の特例、源泉所得税（翌月10日・納期の特例7月10日・1月20日）、法定調書・給与支払報告書・償却資産（1月31日）、算定基礎届、労働保険の年度更新
-- [電子帳簿保存法のスキャナ保存](https://shiwake.isz.ai/guide/denchoho-scanner/): 200dpi・カラー、入力期限（おおむね7営業日・最長2か月）、訂正削除の履歴、検索要件、スマホ撮影
-- [電子取引データの保存](https://shiwake.isz.ai/guide/denshi-torihiki/): メールの PDF・Web 明細の電子保存義務（2024年1月から）、改ざん防止、検索要件（売上高5,000万円以下は不要）、猶予措置
-- [勘定科目の一覧と仕訳の例](https://shiwake.isz.ai/guide/kanjo-kamoku/): よく使う勘定科目、税抜経理の仕訳、経過措置の仕訳、会議費と交際費（1人1万円）
-- [法人の決算を自分でやる方法（全11回の入門）](https://shiwake.isz.ai/guide/jibun-hojin-kessan/): ひとり社長・マイクロ法人・合同会社向け。複式簿記・勘定科目・領収書と通帳の仕訳（役員借入金・現金出納帳）・役員報酬・試算表・決算整理仕訳・決算書の見方・法人税申告書・e-Tax・消費税と地方税の申告を順番に
+- [AI経理とは](https://shiwake.ai/guide/ai-jidou-shiwake/): 仕訳の自動化の流れ、AI に任せること・人が確認すること、導入のポイント
+- [記帳代行・記帳の自動化](https://shiwake.ai/guide/kicho-jidoka/): 税理士事務所の入力業務を減らす方法、顧問先からの証憑回収、会計ソフト（弥生・freee・MF・TKC）への CSV 取込
+- [消費税の計算](https://shiwake.ai/guide/shohizei/): 税込・税抜の換算、インボイスの端数処理（請求書ごと・税率ごとに1回）、一般課税・簡易課税・2割特例・3割特例（個人事業者・令和9〜10年分）、中間申告
+- [インボイスの登録番号と経過措置](https://shiwake.ai/guide/invoice/): T＋13桁の登録番号、法人番号のチェックディジット、免税事業者からの仕入（2026年9月30日まで80%、2026年10月1日から70%控除）、少額特例
+- [インボイス経過措置70%の仕訳例](https://shiwake.ai/guide/invoice-keika-shiwake/): 2026年10月からの70%控除、9月・10月をまたぐ請求書の分け方、少額資産・交際費1万円の判定、簡易課税の特例、決算時の雑損失と申告調整
+- [源泉徴収税額の計算](https://shiwake.ai/guide/gensen-choshu/): 令和8年分 月額表（740,000円以上は「区切りの税額＋超える金額×◯%」の算式、扶養7人超は1人1,610円控除）、電算機計算の特例、賞与の算出率、報酬・料金の10.21%・20.42%
+- [社会保険料の計算](https://shiwake.ai/guide/shakai-hoken/): 標準報酬月額、協会けんぽ（令和8年度）、介護保険1.62%、子ども・子育て支援金0.23%（2026年4月分から）、厚生年金18.3%、雇用保険
+- [所得税と年末調整](https://shiwake.ai/guide/shotokuzei-nencho/): 速算表、給与所得控除（令和8年分 最低74万円）、基礎控除（令和8年分 合計所得489万円以下で104万円）、年末調整の例
+- [個人事業主の確定申告のやり方（ISZ 仕訳AI）](https://shiwake.ai/guide/kojin-kakutei-shinkoku-app/): 帳簿から青色申告決算書・確定申告書を作り、e-Tax ソフトに読み込める .xtx か PDF で出す4段階の手順（画面つき）
+- [減価償却の計算](https://shiwake.ai/guide/genka-shokyaku/): 定額法・200%定率法（保証率・改定償却率）、少額減価償却資産（令和8年4月1日以後の取得は40万円未満）、一括償却資産、耐用年数
+- [法人税等の計算](https://shiwake.ai/guide/hojinzei/): 中小法人の法人税15%・23.2%、地方法人税10.3%、防衛特別法人税4%、法人住民税、事業税・特別法人事業税、所得別の税額例
+- [法人税申告書の作り方](https://shiwake.ai/guide/hojinzei-shinkokusho/): 申告書一式（別表一・二・四・五(一)(二)・七(一)・十五・十六、勘定科目内訳明細書①〜⑯、法人事業概況説明書、地方税 第六号・第二十号様式）、作成の順番、別表四と別表五(一)の検算、申告期限の延長、e-Tax（大法人は義務・税理士の代理送信）
+- [法人の申告・納付期限の一覧](https://shiwake.ai/guide/shinkoku-kigen/): 法人税・消費税（決算日の翌日から2か月）、申告期限の延長の特例、源泉所得税（翌月10日・納期の特例7月10日・1月20日）、法定調書・給与支払報告書・償却資産（1月31日）、算定基礎届、労働保険の年度更新
+- [電子帳簿保存法のスキャナ保存](https://shiwake.ai/guide/denchoho-scanner/): 200dpi・カラー、入力期限（おおむね7営業日・最長2か月）、訂正削除の履歴、検索要件、スマホ撮影
+- [電子取引データの保存](https://shiwake.ai/guide/denshi-torihiki/): メールの PDF・Web 明細の電子保存義務（2024年1月から）、改ざん防止、検索要件（売上高5,000万円以下は不要）、猶予措置
+- [勘定科目の一覧と仕訳の例](https://shiwake.ai/guide/kanjo-kamoku/): よく使う勘定科目、税抜経理の仕訳、経過措置の仕訳、会議費と交際費（1人1万円）
+- [法人の決算を自分でやる方法（全11回の入門）](https://shiwake.ai/guide/jibun-hojin-kessan/): ひとり社長・マイクロ法人・合同会社向け。複式簿記・勘定科目・領収書と通帳の仕訳（役員借入金・現金出納帳）・役員報酬・試算表・決算整理仕訳・決算書の見方・法人税申告書・e-Tax・消費税と地方税の申告を順番に
 
 ## 無料計算ツール
 
-- [ツール一覧](https://shiwake.isz.ai/tools/): 税理士・経理担当者向けの無料計算ツール
-- [給与の源泉徴収税額](https://shiwake.isz.ai/tools/gensen-kyuyo/)
-- [社会保険料](https://shiwake.isz.ai/tools/shakai-hoken/)
-- [給与の手取り](https://shiwake.isz.ai/tools/kyuyo-tedori/)
-- [賞与の源泉徴収](https://shiwake.isz.ai/tools/gensen-shoyo/)
-- [年末調整](https://shiwake.isz.ai/tools/nencho/)
-- [報酬・料金の源泉徴収](https://shiwake.isz.ai/tools/gensen-houshu/)
-- [消費税（税込・税抜・インボイスの端数）](https://shiwake.isz.ai/tools/shohizei/)
-- [経過措置](https://shiwake.isz.ai/tools/keika-sochi/)
-- [インボイス登録番号チェック](https://shiwake.isz.ai/tools/invoice-number/)
-- [一般課税・簡易課税・2割特例・3割特例の比較](https://shiwake.isz.ai/tools/shohizei-hikaku/)
-- [消費税の中間申告](https://shiwake.isz.ai/tools/chukan-shinkoku/)
-- [減価償却](https://shiwake.isz.ai/tools/genka-shokyaku/)
-- [法人税等](https://shiwake.isz.ai/tools/hojinzei/)
-- [会議費・交際費の判定](https://shiwake.isz.ai/tools/kosaihi/)
-- [勘定科目・仕訳例かんたん検索](https://shiwake.isz.ai/tools/kanjo-kamoku/?utm_source=github&utm_medium=referral): 155の取引の勘定科目・仕訳例・税区分・国税庁の根拠
-- [領収書・レシートのAI読み取り](https://shiwake.isz.ai/tools/receipt-ocr/?utm_source=github&utm_medium=referral): 日付・取引先・金額・税率・登録番号を読み取り仕訳を作成（無料・登録で証憑100枚まで）
-- [請求書のAI読み取り](https://shiwake.isz.ai/tools/invoice-ocr/?utm_source=github&utm_medium=referral): 紙・PDF の請求書から登録番号・税率別の金額を読み取り仕訳に
-- [通帳・銀行明細のAI読み取り](https://shiwake.isz.ai/tools/tsucho-ocr/?utm_source=github&utm_medium=referral): 入出金を仕訳にし、証憑と照合
-- [年収の壁 判定](https://shiwake.isz.ai/tools/nenshu-kabe/?utm_source=github&utm_medium=referral): 2026年（令和8年分）の住民税119万円・扶養136万円・所得税178万円・社会保険の扶養130万円／150万円。106万円の賃金要件は2026年10月1日に撤廃
-- [退職金の税金](https://shiwake.isz.ai/tools/taishoku/?utm_source=github&utm_medium=referral): 退職所得控除・源泉徴収・住民税
-- [延滞税](https://shiwake.isz.ai/tools/entaizei/?utm_source=github&utm_medium=referral): 国税の延滞税（2026年は年2.8%／9.1%）、一部納付・修正申告
-- [法人の申告・納付期限カレンダー](https://shiwake.isz.ai/tools/shinkoku-kigen/?utm_source=github&utm_medium=referral): 決算月から確定申告・中間申告・源泉所得税・年度更新までの期限を一覧にし .ics で書き出し
-- [印紙税額の判定](https://shiwake.isz.ai/tools/inshi-zei/?utm_source=github&utm_medium=referral): 契約書・領収書の印紙税額
-- [ふるさと納税の控除上限額](https://shiwake.isz.ai/tools/furusato/?utm_source=github&utm_medium=referral): 2026年中の寄附の上限（住民税所得割の20%・特例控除割合から逆算。令和8年分は所得税の基礎控除104万円で上限が下がる人がいる）、年収・家族構成別の早見表
-- [所得税・住民税の計算（個人）](https://shiwake.isz.ai/tools/shotokuzei-juminzei/?utm_source=github&utm_medium=referral): 令和8年分の所得税と令和9年度の住民税（基礎控除43万円・調整控除・均等割）、控除ごとの所得税と住民税の違い
-- [役員報酬の最適額](https://shiwake.isz.ai/tools/yakuin-hoshu/?utm_source=github&utm_medium=referral): 法人税等＋所得税・住民税＋社会保険料（労使）の合計が最も少ない月額、必要な手取りを満たす月額
-- [法人成りシミュレーション](https://shiwake.isz.ai/tools/hojinnari/?utm_source=github&utm_medium=referral): 個人事業（所得税・住民税・個人事業税・国保・国民年金）と法人（役員報酬の最適額）の1年間の負担の比較
-- [法定調書の提出要否](https://shiwake.isz.ai/tools/hotei-yohi/?utm_source=github&utm_medium=referral): 令和8年分の提出範囲（給与所得の源泉徴収票のみなし提出、退職所得の源泉徴収票は全員分に拡大、報酬5万円・不動産15万円・譲受け100万円）、提出期限 令和9年2月1日
-- [償却資産（固定資産税）の税額・免税点](https://shiwake.isz.ai/tools/shokyaku-shisan/?utm_source=github&utm_medium=referral): 評価額（前年中取得 1−r/2・前年前 1−r・最低5%）、令和9年度から免税点180万円
-- [少額減価償却資産の判定（年300万円の上限）](https://shiwake.isz.ai/tools/shogaku-shisan/?utm_source=github&utm_medium=referral): 10万円未満・一括償却資産・中小企業者等の特例（40万円未満）への振り分け
-- [請求書の作成（適格請求書）](https://shiwake.isz.ai/tools/seikyusho/?utm_source=github&utm_medium=referral): インボイスの記載事項・税率ごとに1回の端数処理・報酬の源泉徴収、印刷・PDF保存
-- [顧問先への資料依頼リスト](https://shiwake.isz.ai/tools/shiryo-irai/?utm_source=github&utm_medium=referral): 法人の決算・個人の確定申告・年末調整で集める資料（印刷・CSV）
-- [法人の決算チェックリスト](https://shiwake.isz.ai/tools/kessan-check/?utm_source=github&utm_medium=referral): 残高確認・決算整理・税務の確認・申告までの27項目（印刷・CSV）
+- [ツール一覧](https://shiwake.ai/tools/): 税理士・経理担当者向けの無料計算ツール
+- [給与の源泉徴収税額](https://shiwake.ai/tools/gensen-kyuyo/)
+- [社会保険料](https://shiwake.ai/tools/shakai-hoken/)
+- [給与の手取り](https://shiwake.ai/tools/kyuyo-tedori/)
+- [賞与の源泉徴収](https://shiwake.ai/tools/gensen-shoyo/)
+- [年末調整](https://shiwake.ai/tools/nencho/)
+- [報酬・料金の源泉徴収](https://shiwake.ai/tools/gensen-houshu/)
+- [消費税（税込・税抜・インボイスの端数）](https://shiwake.ai/tools/shohizei/)
+- [経過措置](https://shiwake.ai/tools/keika-sochi/)
+- [インボイス登録番号チェック](https://shiwake.ai/tools/invoice-number/)
+- [一般課税・簡易課税・2割特例・3割特例の比較](https://shiwake.ai/tools/shohizei-hikaku/)
+- [消費税の中間申告](https://shiwake.ai/tools/chukan-shinkoku/)
+- [減価償却](https://shiwake.ai/tools/genka-shokyaku/)
+- [法人税等](https://shiwake.ai/tools/hojinzei/)
+- [会議費・交際費の判定](https://shiwake.ai/tools/kosaihi/)
+- [勘定科目・仕訳例かんたん検索](https://shiwake.ai/tools/kanjo-kamoku/?utm_source=github&utm_medium=referral): 155の取引の勘定科目・仕訳例・税区分・国税庁の根拠
+- [領収書・レシートのAI読み取り](https://shiwake.ai/tools/receipt-ocr/?utm_source=github&utm_medium=referral): 日付・取引先・金額・税率・登録番号を読み取り仕訳を作成（無料・登録で証憑100枚まで）
+- [請求書のAI読み取り](https://shiwake.ai/tools/invoice-ocr/?utm_source=github&utm_medium=referral): 紙・PDF の請求書から登録番号・税率別の金額を読み取り仕訳に
+- [通帳・銀行明細のAI読み取り](https://shiwake.ai/tools/tsucho-ocr/?utm_source=github&utm_medium=referral): 入出金を仕訳にし、証憑と照合
+- [年収の壁 判定](https://shiwake.ai/tools/nenshu-kabe/?utm_source=github&utm_medium=referral): 2026年（令和8年分）の住民税119万円・扶養136万円・所得税178万円・社会保険の扶養130万円／150万円。106万円の賃金要件は2026年10月1日に撤廃
+- [退職金の税金](https://shiwake.ai/tools/taishoku/?utm_source=github&utm_medium=referral): 退職所得控除・源泉徴収・住民税
+- [延滞税](https://shiwake.ai/tools/entaizei/?utm_source=github&utm_medium=referral): 国税の延滞税（2026年は年2.8%／9.1%）、一部納付・修正申告
+- [法人の申告・納付期限カレンダー](https://shiwake.ai/tools/shinkoku-kigen/?utm_source=github&utm_medium=referral): 決算月から確定申告・中間申告・源泉所得税・年度更新までの期限を一覧にし .ics で書き出し
+- [印紙税額の判定](https://shiwake.ai/tools/inshi-zei/?utm_source=github&utm_medium=referral): 契約書・領収書の印紙税額
+- [ふるさと納税の控除上限額](https://shiwake.ai/tools/furusato/?utm_source=github&utm_medium=referral): 2026年中の寄附の上限（住民税所得割の20%・特例控除割合から逆算。令和8年分は所得税の基礎控除104万円で上限が下がる人がいる）、年収・家族構成別の早見表
+- [所得税・住民税の計算（個人）](https://shiwake.ai/tools/shotokuzei-juminzei/?utm_source=github&utm_medium=referral): 令和8年分の所得税と令和9年度の住民税（基礎控除43万円・調整控除・均等割）、控除ごとの所得税と住民税の違い
+- [役員報酬の最適額](https://shiwake.ai/tools/yakuin-hoshu/?utm_source=github&utm_medium=referral): 法人税等＋所得税・住民税＋社会保険料（労使）の合計が最も少ない月額、必要な手取りを満たす月額
+- [法人成りシミュレーション](https://shiwake.ai/tools/hojinnari/?utm_source=github&utm_medium=referral): 個人事業（所得税・住民税・個人事業税・国保・国民年金）と法人（役員報酬の最適額）の1年間の負担の比較
+- [法定調書の提出要否](https://shiwake.ai/tools/hotei-yohi/?utm_source=github&utm_medium=referral): 令和8年分の提出範囲（給与所得の源泉徴収票のみなし提出、退職所得の源泉徴収票は全員分に拡大、報酬5万円・不動産15万円・譲受け100万円）、提出期限 令和9年2月1日
+- [償却資産（固定資産税）の税額・免税点](https://shiwake.ai/tools/shokyaku-shisan/?utm_source=github&utm_medium=referral): 評価額（前年中取得 1−r/2・前年前 1−r・最低5%）、令和9年度から免税点180万円
+- [少額減価償却資産の判定（年300万円の上限）](https://shiwake.ai/tools/shogaku-shisan/?utm_source=github&utm_medium=referral): 10万円未満・一括償却資産・中小企業者等の特例（40万円未満）への振り分け
+- [請求書の作成（適格請求書）](https://shiwake.ai/tools/seikyusho/?utm_source=github&utm_medium=referral): インボイスの記載事項・税率ごとに1回の端数処理・報酬の源泉徴収、印刷・PDF保存
+- [顧問先への資料依頼リスト](https://shiwake.ai/tools/shiryo-irai/?utm_source=github&utm_medium=referral): 法人の決算・個人の確定申告・年末調整で集める資料（印刷・CSV）
+- [法人の決算チェックリスト](https://shiwake.ai/tools/kessan-check/?utm_source=github&utm_medium=referral): 残高確認・決算整理・税務の確認・申告までの27項目（印刷・CSV）
 
 ## ISZ 仕訳AI
 
-- [ISZ™ 仕訳AI 公式サイト](https://shiwake.isz.ai/): 機能・料金・導入事例
-- [使い方動画（ISZ 仕訳AI 操作ガイド）](https://shiwake.isz.ai/tutorial/): YouTube の操作ガイド。第0回は登録から AI 仕訳・決算書・法人税と消費税の e-Tax 申告データ（.xtx）までの全体の流れ（約5分）、第1回から機能ごとに順次公開
-- [第0回 1時間で法人の決算・申告まで（文字起こし付き）](https://shiwake.isz.ai/tutorial/kessan-shinkoku-nagare/): AI仕訳から法人税・消費税の e-Tax 申告データ（.xtx）の作成、e-Tax（WEB版）での読み込みまでの全体の流れ（4分42秒）
+- [ISZ™ 仕訳AI 公式サイト](https://shiwake.ai/): 機能・料金・導入事例
+- [使い方動画（ISZ 仕訳AI 操作ガイド）](https://shiwake.ai/tutorial/): YouTube の操作ガイド。第0回は登録から AI 仕訳・決算書・法人税と消費税の e-Tax 申告データ（.xtx）までの全体の流れ（約5分）、第1回から機能ごとに順次公開
+- [第0回 1時間で法人の決算・申告まで（文字起こし付き）](https://shiwake.ai/tutorial/kessan-shinkoku-nagare/): AI仕訳から法人税・消費税の e-Tax 申告データ（.xtx）の作成、e-Tax（WEB版）での読み込みまでの全体の流れ（4分42秒）
 - [無料で試す（証憑100枚まで無料・カード不要）](https://acc.isz.ai/login?tab=register)
 - [README（日本語）](https://github.com/iszgroup/shiwake-ai/blob/main/README.md)
 - [README（English）](https://github.com/iszgroup/shiwake-ai/blob/main/README.en.md)

@@ -1,6 +1,6 @@
 # 法人税等の計算方法（中小法人・2026年版）— 税率15%・23.2%、地方法人税、防衛特別法人税、住民税・事業税
 
-→ **完全版（計算例・よくある質問・出典付き）: [法人税等の計算方法（中小法人・2026年版）— 税率、防衛特別法人税、住民税・事業税](https://shiwake.isz.ai/guide/hojinzei/?utm_source=github&utm_medium=referral)**
+→ **完全版（計算例・よくある質問・出典付き）: [法人税等の計算方法（中小法人・2026年版）— 税率、防衛特別法人税、住民税・事業税](https://shiwake.ai/guide/hojinzei/?utm_source=github&utm_medium=referral)**
 
 **要点**
 
@@ -31,18 +31,18 @@
 | 1,000万円超 1億円以下 | 5万円 | 13万円 | 15万円 |
 | 1億円超 10億円以下 | 13万円 | 16万円 | 40万円 |
 
-→ **完全版: [法人税等の計算方法（設立初年度の月割の計算例・防衛特別法人税・赤字の年・よくある間違い）](https://shiwake.isz.ai/guide/hojinzei/?utm_source=github&utm_medium=referral)**
+→ **完全版: [法人税等の計算方法（設立初年度の月割の計算例・防衛特別法人税・赤字の年・よくある間違い）](https://shiwake.ai/guide/hojinzei/?utm_source=github&utm_medium=referral)**
 
 ---
 
 ## 無料で計算する・ISZ™ 仕訳AI を試す
 
-- **[法人税等の計算ツール（中小法人）](https://shiwake.isz.ai/tools/hojinzei/?utm_source=github&utm_medium=referral)**
-- **[法人の申告・納付期限カレンダー（決算月から一覧・.ics 書き出し）](https://shiwake.isz.ai/tools/shinkoku-kigen/?utm_source=github&utm_medium=referral)**
-- **[延滞税の計算ツール](https://shiwake.isz.ai/tools/entaizei/?utm_source=github&utm_medium=referral)**
-- **[役員報酬の最適額シミュレーション（法人税等＋所得税・住民税＋社会保険料）](https://shiwake.isz.ai/tools/yakuin-hoshu/?utm_source=github&utm_medium=referral)**
-- **[法人成りシミュレーション](https://shiwake.isz.ai/tools/hojinnari/?utm_source=github&utm_medium=referral)**
-- 関連する解説: **[法人税申告書の作り方](https://shiwake.isz.ai/guide/hojinzei-shinkokusho/?utm_source=github&utm_medium=referral)**
+- **[法人税等の計算ツール（中小法人）](https://shiwake.ai/tools/hojinzei/?utm_source=github&utm_medium=referral)**
+- **[法人の申告・納付期限カレンダー（決算月から一覧・.ics 書き出し）](https://shiwake.ai/tools/shinkoku-kigen/?utm_source=github&utm_medium=referral)**
+- **[延滞税の計算ツール](https://shiwake.ai/tools/entaizei/?utm_source=github&utm_medium=referral)**
+- **[役員報酬の最適額シミュレーション（法人税等＋所得税・住民税＋社会保険料）](https://shiwake.ai/tools/yakuin-hoshu/?utm_source=github&utm_medium=referral)**
+- **[法人成りシミュレーション](https://shiwake.ai/tools/hojinnari/?utm_source=github&utm_medium=referral)**
+- 関連する解説: **[法人税申告書の作り方](https://shiwake.ai/guide/hojinzei-shinkokusho/?utm_source=github&utm_medium=referral)**
 
 **ISZ™ 仕訳AI** は、確定した仕訳から決算書と法人税の申告書（主な別表・地方税の様式）を作り、法人税・消費税は e-Tax 用の申告データ（.xtx）も出力します。
-→ **[無料で試す（証憑100枚まで無料）](https://acc.isz.ai/login?tab=register&utm_source=github&utm_medium=referral&utm_campaign=corporate-tax)**　｜　**[ISZ™ 仕訳AI の詳細](https://shiwake.isz.ai/?utm_source=github&utm_medium=referral)**
+→ **[無料で試す（証憑100枚まで無料）](https://acc.isz.ai/login?tab=register&utm_source=github&utm_medium=referral&utm_campaign=corporate-tax)**　｜　**[ISZ™ 仕訳AI の詳細](https://shiwake.ai/?utm_source=github&utm_medium=referral)**

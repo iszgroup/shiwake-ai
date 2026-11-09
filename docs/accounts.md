@@ -1,6 +1,6 @@
 # 勘定科目の一覧と仕訳の例 — 領収書の仕訳・税抜経理・会議費と交際費（1人1万円）
 
-→ **完全版（計算例・よくある質問・出典付き）: [勘定科目の一覧と仕訳の例 — 領収書の仕訳・会議費と交際費の違い（1人1万円）](https://shiwake.isz.ai/guide/kanjo-kamoku/?utm_source=github&utm_medium=referral)**
+→ **完全版（計算例・よくある質問・出典付き）: [勘定科目の一覧と仕訳の例 — 領収書の仕訳・会議費と交際費の違い（1人1万円）](https://shiwake.ai/guide/kanjo-kamoku/?utm_source=github&utm_medium=referral)**
 
 **要点**
 
@@ -30,7 +30,7 @@
 
 33,000円・3人は、税込経理なら1人11,000円で交際費等です。最終的な判断は顧問税理士にご確認ください。
 
-→ **完全版: [勘定科目の一覧と仕訳の例](https://shiwake.isz.ai/guide/kanjo-kamoku/?utm_source=github&utm_medium=referral)**（科目一覧、8%・10%混在のレシート、外注費の源泉徴収、パソコン、交際費の損金不算入額）
+→ **完全版: [勘定科目の一覧と仕訳の例](https://shiwake.ai/guide/kanjo-kamoku/?utm_source=github&utm_medium=referral)**（科目一覧、8%・10%混在のレシート、外注費の源泉徴収、パソコン、交際費の損金不算入額）
 
 ## 自分で記帳・決算する会社のための入門（全11回）
 
@@ -41,16 +41,16 @@
 - 役員報酬は毎月同じ額（定期同額給与）。改定は原則、**会計期間の始まりから3か月以内**
 - 決算整理は、在庫・減価償却・未払・前払・未払消費税等・未払法人税等の順。法人税等は最後に計上
 
-→ **完全版: [法人の決算を自分でやる方法（全11回の入門）](https://shiwake.isz.ai/guide/jibun-hojin-kessan/?utm_source=github&utm_medium=referral)**（[複式簿記とは](https://shiwake.isz.ai/guide/fukushiki-boki/?utm_source=github&utm_medium=referral)・[勘定科目の決め方](https://shiwake.isz.ai/guide/kanjo-kamoku-kimekata/?utm_source=github&utm_medium=referral)・[領収書の仕訳と役員借入金](https://shiwake.isz.ai/guide/keihi-shiwake/?utm_source=github&utm_medium=referral)・[通帳の仕訳と現金出納帳](https://shiwake.isz.ai/guide/tsucho-shiwake/?utm_source=github&utm_medium=referral)・[役員報酬の決め方と仕訳](https://shiwake.isz.ai/guide/yakuin-hoshu-shiwake/?utm_source=github&utm_medium=referral)・[試算表](https://shiwake.isz.ai/guide/shisanhyo/?utm_source=github&utm_medium=referral)・[決算整理仕訳](https://shiwake.isz.ai/guide/kessan-seiri-shiwake/?utm_source=github&utm_medium=referral)・[決算書の見方](https://shiwake.isz.ai/guide/kessansho-mikata/?utm_source=github&utm_medium=referral)・[消費税と地方税の申告](https://shiwake.isz.ai/guide/shohizei-chihozei-shinkoku/?utm_source=github&utm_medium=referral)）
+→ **完全版: [法人の決算を自分でやる方法（全11回の入門）](https://shiwake.ai/guide/jibun-hojin-kessan/?utm_source=github&utm_medium=referral)**（[複式簿記とは](https://shiwake.ai/guide/fukushiki-boki/?utm_source=github&utm_medium=referral)・[勘定科目の決め方](https://shiwake.ai/guide/kanjo-kamoku-kimekata/?utm_source=github&utm_medium=referral)・[領収書の仕訳と役員借入金](https://shiwake.ai/guide/keihi-shiwake/?utm_source=github&utm_medium=referral)・[通帳の仕訳と現金出納帳](https://shiwake.ai/guide/tsucho-shiwake/?utm_source=github&utm_medium=referral)・[役員報酬の決め方と仕訳](https://shiwake.ai/guide/yakuin-hoshu-shiwake/?utm_source=github&utm_medium=referral)・[試算表](https://shiwake.ai/guide/shisanhyo/?utm_source=github&utm_medium=referral)・[決算整理仕訳](https://shiwake.ai/guide/kessan-seiri-shiwake/?utm_source=github&utm_medium=referral)・[決算書の見方](https://shiwake.ai/guide/kessansho-mikata/?utm_source=github&utm_medium=referral)・[消費税と地方税の申告](https://shiwake.ai/guide/shohizei-chihozei-shinkoku/?utm_source=github&utm_medium=referral)）
 
 ---
 
 ## 無料で計算する・ISZ™ 仕訳AI を試す
 
-- **[勘定科目・仕訳例かんたん検索（155の取引）](https://shiwake.isz.ai/tools/kanjo-kamoku/?utm_source=github&utm_medium=referral)**
-- **[会議費・交際費の判定ツール（1人1万円）](https://shiwake.isz.ai/tools/kosaihi/?utm_source=github&utm_medium=referral)**
-- **[経過措置（80%・70%控除）の計算ツール](https://shiwake.isz.ai/tools/keika-sochi/?utm_source=github&utm_medium=referral)**
-- **[印紙税額の判定ツール](https://shiwake.isz.ai/tools/inshi-zei/?utm_source=github&utm_medium=referral)**
-- **[領収書・レシートのAI読み取り（登録で証憑100枚まで無料）](https://shiwake.isz.ai/tools/receipt-ocr/?utm_source=github&utm_medium=referral)**
+- **[勘定科目・仕訳例かんたん検索（155の取引）](https://shiwake.ai/tools/kanjo-kamoku/?utm_source=github&utm_medium=referral)**
+- **[会議費・交際費の判定ツール（1人1万円）](https://shiwake.ai/tools/kosaihi/?utm_source=github&utm_medium=referral)**
+- **[経過措置（80%・70%控除）の計算ツール](https://shiwake.ai/tools/keika-sochi/?utm_source=github&utm_medium=referral)**
+- **[印紙税額の判定ツール](https://shiwake.ai/tools/inshi-zei/?utm_source=github&utm_medium=referral)**
+- **[領収書・レシートのAI読み取り（登録で証憑100枚まで無料）](https://shiwake.ai/tools/receipt-ocr/?utm_source=github&utm_medium=referral)**
 
-→ **[無料で試す（証憑100枚まで無料）](https://acc.isz.ai/login?tab=register&utm_source=github&utm_medium=referral&utm_campaign=accounts)**　｜　**[ISZ™ 仕訳AI の詳細](https://shiwake.isz.ai/?utm_source=github&utm_medium=referral)**
+→ **[無料で試す（証憑100枚まで無料）](https://acc.isz.ai/login?tab=register&utm_source=github&utm_medium=referral&utm_campaign=accounts)**　｜　**[ISZ™ 仕訳AI の詳細](https://shiwake.ai/?utm_source=github&utm_medium=referral)**

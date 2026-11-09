@@ -1,6 +1,6 @@
 # 法人税申告書の作り方 — 別表の構成と作成の順番、勘定科目内訳明細書・法人事業概況説明書、e-Tax での提出
 
-→ **完全版（計算例・よくある質問・出典付き）: [法人税申告書の作り方 — 別表の構成と作成の順番、勘定科目内訳明細書・法人事業概況説明書、e-Tax での提出](https://shiwake.isz.ai/guide/hojinzei-shinkokusho/?utm_source=github&utm_medium=referral)**
+→ **完全版（計算例・よくある質問・出典付き）: [法人税申告書の作り方 — 別表の構成と作成の順番、勘定科目内訳明細書・法人事業概況説明書、e-Tax での提出](https://shiwake.ai/guide/hojinzei-shinkokusho/?utm_source=github&utm_medium=referral)**
 
 **要点**
 
@@ -35,18 +35,18 @@
 - **修正申告**: 申告した税額が少なかったときに出す。別表一の表題に **「修正確定」**、㉕・㊹ と次葉二 84〜90 に前回の税額との差額。**税額が減るときは更正の請求**（原則5年以内）。増えた税額は修正申告書を出した日が納期限
 - **地方税の修正申告**: 都道府県の第六号様式・市町村の第二十号様式も、税額が増える自治体ごとに「修正確定」で出す。減る自治体は更正の請求（地方税法第20条の9の3）
 
-→ **完全版: [法人税の中間申告（予定申告）・修正申告の作り方と e-Tax（別表十九・別表一の書き方、計算例）](https://shiwake.isz.ai/guide/chukan-shusei-shinkoku/?utm_source=github&utm_medium=referral)**
+→ **完全版: [法人税の中間申告（予定申告）・修正申告の作り方と e-Tax（別表十九・別表一の書き方、計算例）](https://shiwake.ai/guide/chukan-shusei-shinkoku/?utm_source=github&utm_medium=referral)**
 
-→ **完全版: [法人税申告書の作り方（別表四の主な行・検算の計算例・内訳書①〜⑯・申告前のチェックリスト）](https://shiwake.isz.ai/guide/hojinzei-shinkokusho/?utm_source=github&utm_medium=referral)**
+→ **完全版: [法人税申告書の作り方（別表四の主な行・検算の計算例・内訳書①〜⑯・申告前のチェックリスト）](https://shiwake.ai/guide/hojinzei-shinkokusho/?utm_source=github&utm_medium=referral)**
 
 ---
 
 ## 無料で計算する・ISZ™ 仕訳AI を試す
 
-- **[法人税等の計算ツール（中小法人）](https://shiwake.isz.ai/tools/hojinzei/?utm_source=github&utm_medium=referral)**
-- **[減価償却の計算ツール](https://shiwake.isz.ai/tools/genka-shokyaku/?utm_source=github&utm_medium=referral)**
-- **[法人の申告・納付期限カレンダー](https://shiwake.isz.ai/tools/shinkoku-kigen/?utm_source=github&utm_medium=referral)**
-- **[延滞税の計算ツール](https://shiwake.isz.ai/tools/entaizei/?utm_source=github&utm_medium=referral)**
+- **[法人税等の計算ツール（中小法人）](https://shiwake.ai/tools/hojinzei/?utm_source=github&utm_medium=referral)**
+- **[減価償却の計算ツール](https://shiwake.ai/tools/genka-shokyaku/?utm_source=github&utm_medium=referral)**
+- **[法人の申告・納付期限カレンダー](https://shiwake.ai/tools/shinkoku-kigen/?utm_source=github&utm_medium=referral)**
+- **[延滞税の計算ツール](https://shiwake.ai/tools/entaizei/?utm_source=github&utm_medium=referral)**
 
 **ISZ™ 仕訳AI** は、確定した仕訳から主な別表・勘定科目内訳明細書・法人事業概況説明書・地方税（第六号・第二十号様式）を国税庁などの様式に記入した PDF で作り、法人税・消費税は e-Tax 用の申告データ（.xtx）も出力します。内容の確認・電子署名・送信は税理士が行います。
-→ **[無料で試す（証憑100枚まで無料）](https://acc.isz.ai/login?tab=register&utm_source=github&utm_medium=referral&utm_campaign=hojinzei-shinkokusho)**　｜　**[ISZ™ 仕訳AI の詳細](https://shiwake.isz.ai/?utm_source=github&utm_medium=referral)**
+→ **[無料で試す（証憑100枚まで無料）](https://acc.isz.ai/login?tab=register&utm_source=github&utm_medium=referral&utm_campaign=hojinzei-shinkokusho)**　｜　**[ISZ™ 仕訳AI の詳細](https://shiwake.ai/?utm_source=github&utm_medium=referral)**

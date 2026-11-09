@@ -1,6 +1,6 @@
 # 社会保険料の計算方法（令和8年度）— 健康保険・介護保険・子ども・子育て支援金・厚生年金・雇用保険
 
-→ **完全版（計算例・よくある質問・出典付き）: [社会保険料の計算方法（令和8年度）— 健康保険・介護保険・子ども・子育て支援金・厚生年金・雇用保険](https://shiwake.isz.ai/guide/shakai-hoken/?utm_source=github&utm_medium=referral)**
+→ **完全版（計算例・よくある質問・出典付き）: [社会保険料の計算方法（令和8年度）— 健康保険・介護保険・子ども・子育て支援金・厚生年金・雇用保険](https://shiwake.ai/guide/shakai-hoken/?utm_source=github&utm_medium=referral)**
 
 **要点**
 
@@ -30,15 +30,15 @@
 | 雇用保険 | 1,500円 | 1,500円 | 1,500円 |
 | **合計** | **44,070円** | **46,500円** | **44,490円** |
 
-→ **完全版（計算例・よくある質問・出典付き）: [社会保険料の計算方法（令和8年度）](https://shiwake.isz.ai/guide/shakai-hoken/?utm_source=github&utm_medium=referral)**
+→ **完全版（計算例・よくある質問・出典付き）: [社会保険料の計算方法（令和8年度）](https://shiwake.ai/guide/shakai-hoken/?utm_source=github&utm_medium=referral)**
 
 ---
 
 ## 無料で計算する・ISZ™ 仕訳AI を試す
 
-- **[社会保険料の計算ツール](https://shiwake.isz.ai/tools/shakai-hoken/?utm_source=github&utm_medium=referral)**
-- **[給与の手取りの計算ツール](https://shiwake.isz.ai/tools/kyuyo-tedori/?utm_source=github&utm_medium=referral)**
-- **[賞与の源泉徴収税額・社会保険料の計算ツール](https://shiwake.isz.ai/tools/gensen-shoyo/?utm_source=github&utm_medium=referral)**
+- **[社会保険料の計算ツール](https://shiwake.ai/tools/shakai-hoken/?utm_source=github&utm_medium=referral)**
+- **[給与の手取りの計算ツール](https://shiwake.ai/tools/kyuyo-tedori/?utm_source=github&utm_medium=referral)**
+- **[賞与の源泉徴収税額・社会保険料の計算ツール](https://shiwake.ai/tools/gensen-shoyo/?utm_source=github&utm_medium=referral)**
 
 **ISZ™ 仕訳AI** の給与計算は、協会けんぽの都道府県別の料率・介護保険・子ども・子育て支援金・厚生年金・雇用保険で社会保険料を計算し、年末調整・源泉徴収票まで行えます。
-→ **[無料で試す（証憑100枚まで無料）](https://acc.isz.ai/login?tab=register&utm_source=github&utm_medium=referral&utm_campaign=social-insurance)**　｜　**[ISZ™ 仕訳AI の詳細](https://shiwake.isz.ai/?utm_source=github&utm_medium=referral)**
+→ **[無料で試す（証憑100枚まで無料）](https://acc.isz.ai/login?tab=register&utm_source=github&utm_medium=referral&utm_campaign=social-insurance)**　｜　**[ISZ™ 仕訳AI の詳細](https://shiwake.ai/?utm_source=github&utm_medium=referral)**

@@ -1,6 +1,6 @@
 # 法人の申告・納付期限の一覧（2026年版）— 法人税・消費税・源泉所得税・法定調書・償却資産・算定基礎届・年度更新
 
-→ **完全版（計算例・よくある質問・出典付き）: [法人の申告・納付期限の一覧 — 法人税・消費税・源泉所得税・法定調書・償却資産・社会保険と延滞税](https://shiwake.isz.ai/guide/shinkoku-kigen/?utm_source=github&utm_medium=referral)**
+→ **完全版（計算例・よくある質問・出典付き）: [法人の申告・納付期限の一覧 — 法人税・消費税・源泉所得税・法定調書・償却資産・社会保険と延滞税](https://shiwake.ai/guide/shinkoku-kigen/?utm_source=github&utm_medium=referral)**
 
 **要点**
 
@@ -30,16 +30,16 @@
 | 納期限の翌日から2か月を経過する日まで | 年2.8% | 年2.4% |
 | それ以後 | 年9.1% | 年8.7% |
 
-→ **完全版（計算例・よくある質問・出典付き）: [法人の申告・納付期限の一覧](https://shiwake.isz.ai/guide/shinkoku-kigen/?utm_source=github&utm_medium=referral)**
+→ **完全版（計算例・よくある質問・出典付き）: [法人の申告・納付期限の一覧](https://shiwake.ai/guide/shinkoku-kigen/?utm_source=github&utm_medium=referral)**
 
 ---
 
 ## 無料で計算する・ISZ™ 仕訳AI を試す
 
-- **[法人の申告・納付期限カレンダー（決算月から一覧・.ics 書き出し）](https://shiwake.isz.ai/tools/shinkoku-kigen/?utm_source=github&utm_medium=referral)**
-- **[延滞税の計算ツール（国税・2.8%／9.1%）](https://shiwake.isz.ai/tools/entaizei/?utm_source=github&utm_medium=referral)**
-- **[法人税等の計算ツール](https://shiwake.isz.ai/tools/hojinzei/?utm_source=github&utm_medium=referral)**
-- **[消費税の中間申告の計算ツール](https://shiwake.isz.ai/tools/chukan-shinkoku/?utm_source=github&utm_medium=referral)**
-- **[年末調整の計算ツール](https://shiwake.isz.ai/tools/nencho/?utm_source=github&utm_medium=referral)**
+- **[法人の申告・納付期限カレンダー（決算月から一覧・.ics 書き出し）](https://shiwake.ai/tools/shinkoku-kigen/?utm_source=github&utm_medium=referral)**
+- **[延滞税の計算ツール（国税・2.8%／9.1%）](https://shiwake.ai/tools/entaizei/?utm_source=github&utm_medium=referral)**
+- **[法人税等の計算ツール](https://shiwake.ai/tools/hojinzei/?utm_source=github&utm_medium=referral)**
+- **[消費税の中間申告の計算ツール](https://shiwake.ai/tools/chukan-shinkoku/?utm_source=github&utm_medium=referral)**
+- **[年末調整の計算ツール](https://shiwake.ai/tools/nencho/?utm_source=github&utm_medium=referral)**
 
-→ **[無料で試す（証憑100枚まで無料）](https://acc.isz.ai/login?tab=register&utm_source=github&utm_medium=referral&utm_campaign=shinkoku-kigen)**　｜　**[ISZ™ 仕訳AI の詳細](https://shiwake.isz.ai/?utm_source=github&utm_medium=referral)**
+→ **[無料で試す（証憑100枚まで無料）](https://acc.isz.ai/login?tab=register&utm_source=github&utm_medium=referral&utm_campaign=shinkoku-kigen)**　｜　**[ISZ™ 仕訳AI の詳細](https://shiwake.ai/?utm_source=github&utm_medium=referral)**

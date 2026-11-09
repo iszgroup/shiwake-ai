@@ -1,6 +1,6 @@
 # 電子取引データの保存方法（電子帳簿保存法）— メールのPDF・Web明細の保存義務、検索要件、猶予措置
 
-→ **完全版（計算例・よくある質問・出典付き）: [電子取引データの保存方法 — メールのPDF・Web明細の保存義務、検索要件が不要な場合と猶予措置](https://shiwake.isz.ai/guide/denshi-torihiki/?utm_source=github&utm_medium=referral)**
+→ **完全版（計算例・よくある質問・出典付き）: [電子取引データの保存方法 — メールのPDF・Web明細の保存義務、検索要件が不要な場合と猶予措置](https://shiwake.ai/guide/denshi-torihiki/?utm_source=github&utm_medium=referral)**
 
 **要点**
 
@@ -26,14 +26,14 @@
 | ダウンロードの求めに応じられる | 日付・金額・取引先で検索（範囲指定・組合せは不要） |
 | 上に加えて、売上高5,000万円以下、または出力書面を日付・取引先ごとに整理して提示できる | 不要 |
 
-→ **完全版（計算例・よくある質問・出典付き）: [電子取引データの保存方法](https://shiwake.isz.ai/guide/denshi-torihiki/?utm_source=github&utm_medium=referral)**
+→ **完全版（計算例・よくある質問・出典付き）: [電子取引データの保存方法](https://shiwake.ai/guide/denshi-torihiki/?utm_source=github&utm_medium=referral)**
 
 ---
 
 ## 無料で試す・関連ツール
 
-- **[請求書のAI読み取り（メールの PDF もそのまま）](https://shiwake.isz.ai/tools/invoice-ocr/?utm_source=github&utm_medium=referral)**
-- **[領収書・レシートのAI読み取り（登録で証憑100枚まで無料）](https://shiwake.isz.ai/tools/receipt-ocr/?utm_source=github&utm_medium=referral)**
-- **[税理士のための無料計算ツール](https://shiwake.isz.ai/tools/?utm_source=github&utm_medium=referral)**
+- **[請求書のAI読み取り（メールの PDF もそのまま）](https://shiwake.ai/tools/invoice-ocr/?utm_source=github&utm_medium=referral)**
+- **[領収書・レシートのAI読み取り（登録で証憑100枚まで無料）](https://shiwake.ai/tools/receipt-ocr/?utm_source=github&utm_medium=referral)**
+- **[税理士のための無料計算ツール](https://shiwake.ai/tools/?utm_source=github&utm_medium=referral)**
 
-→ **[無料で試す（証憑100枚まで無料）](https://acc.isz.ai/login?tab=register&utm_source=github&utm_medium=referral&utm_campaign=denshi-torihiki)**　｜　**[ISZ™ 仕訳AI の詳細](https://shiwake.isz.ai/?utm_source=github&utm_medium=referral)**
+→ **[無料で試す（証憑100枚まで無料）](https://acc.isz.ai/login?tab=register&utm_source=github&utm_medium=referral&utm_campaign=denshi-torihiki)**　｜　**[ISZ™ 仕訳AI の詳細](https://shiwake.ai/?utm_source=github&utm_medium=referral)**

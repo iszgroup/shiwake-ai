@@ -1,6 +1,6 @@
 # 記帳代行・記帳の自動化 — 税理士事務所の入力業務を AI で減らす方法
 
-→ **完全版（計算例・よくある質問・出典付き）: [記帳代行・記帳の自動化 — 証憑の回収から領収書OCR・突合・CSV取込・電帳法まで](https://shiwake.isz.ai/guide/kicho-jidoka/?utm_source=github&utm_medium=referral)**
+→ **完全版（計算例・よくある質問・出典付き）: [記帳代行・記帳の自動化 — 証憑の回収から領収書OCR・突合・CSV取込・電帳法まで](https://shiwake.ai/guide/kicho-jidoka/?utm_source=github&utm_medium=referral)**
 
 **要点**
 
@@ -31,16 +31,16 @@
 
 電帳法の要件は[スキャナ保存](denchoho.md)・[電子取引データの保存](denshi-torihiki.md)、仕組みの全体は[AI経理とは](ai-keiri.md)にまとめています。
 
-→ **完全版: [記帳代行・記帳の自動化](https://shiwake.isz.ai/guide/kicho-jidoka/?utm_source=github&utm_medium=referral)**（回収方法の比較、ぼやけ・重複・記載漏れへの対処、少額特例と経過措置の仕訳例、振込手数料差引の入金、CSV 取込の手順、導入の進め方）
+→ **完全版: [記帳代行・記帳の自動化](https://shiwake.ai/guide/kicho-jidoka/?utm_source=github&utm_medium=referral)**（回収方法の比較、ぼやけ・重複・記載漏れへの対処、少額特例と経過措置の仕訳例、振込手数料差引の入金、CSV 取込の手順、導入の進め方）
 
 ---
 
 ## ISZ™ 仕訳AI を試す
 
-- **[領収書・レシートのAI読み取り（登録で証憑100枚まで無料）](https://shiwake.isz.ai/tools/receipt-ocr/?utm_source=github&utm_medium=referral)**
-- **[請求書のAI読み取り（登録番号・税率別の金額から仕訳まで）](https://shiwake.isz.ai/tools/invoice-ocr/?utm_source=github&utm_medium=referral)**
-- **[通帳・銀行明細のAI読み取り（入出金を仕訳に・証憑と照合）](https://shiwake.isz.ai/tools/tsucho-ocr/?utm_source=github&utm_medium=referral)**
-- **[勘定科目・仕訳例かんたん検索（155の取引）](https://shiwake.isz.ai/tools/kanjo-kamoku/?utm_source=github&utm_medium=referral)**
-- **[税理士のための無料計算ツール（源泉徴収・社会保険・消費税・減価償却・法人税など）](https://shiwake.isz.ai/tools/?utm_source=github&utm_medium=referral)**
+- **[領収書・レシートのAI読み取り（登録で証憑100枚まで無料）](https://shiwake.ai/tools/receipt-ocr/?utm_source=github&utm_medium=referral)**
+- **[請求書のAI読み取り（登録番号・税率別の金額から仕訳まで）](https://shiwake.ai/tools/invoice-ocr/?utm_source=github&utm_medium=referral)**
+- **[通帳・銀行明細のAI読み取り（入出金を仕訳に・証憑と照合）](https://shiwake.ai/tools/tsucho-ocr/?utm_source=github&utm_medium=referral)**
+- **[勘定科目・仕訳例かんたん検索（155の取引）](https://shiwake.ai/tools/kanjo-kamoku/?utm_source=github&utm_medium=referral)**
+- **[税理士のための無料計算ツール（源泉徴収・社会保険・消費税・減価償却・法人税など）](https://shiwake.ai/tools/?utm_source=github&utm_medium=referral)**
 
-→ **[無料で試す（証憑100枚まで無料）](https://acc.isz.ai/login?tab=register&utm_source=github&utm_medium=referral&utm_campaign=kicho-jidoka)**　｜　**[ISZ™ 仕訳AI の詳細](https://shiwake.isz.ai/?utm_source=github&utm_medium=referral)**
+→ **[無料で試す（証憑100枚まで無料）](https://acc.isz.ai/login?tab=register&utm_source=github&utm_medium=referral&utm_campaign=kicho-jidoka)**　｜　**[ISZ™ 仕訳AI の詳細](https://shiwake.ai/?utm_source=github&utm_medium=referral)**

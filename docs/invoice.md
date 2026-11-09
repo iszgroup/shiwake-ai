@@ -1,6 +1,6 @@
 # インボイスの登録番号（T番号）の確認方法と経過措置（80%→70%控除）・少額特例
 
-→ **完全版（計算例・仕訳例・よくある質問・出典付き）: [インボイス制度の実務 — 登録番号の確認、経過措置（80%→70%）、少額特例と仕訳](https://shiwake.isz.ai/guide/invoice/?utm_source=github&utm_medium=referral)**
+→ **完全版（計算例・仕訳例・よくある質問・出典付き）: [インボイス制度の実務 — 登録番号の確認、経過措置（80%→70%）、少額特例と仕訳](https://shiwake.ai/guide/invoice/?utm_source=github&utm_medium=referral)**
 
 **要点**
 
@@ -28,17 +28,17 @@
 - 簡易課税・2割特例の事業者は、継続適用を条件に相手を問わず10/110を仮払消費税等にできる。経過措置の仕入を税込のまま費用にする方法も認められている（国税庁 No.6375）
 - 期中に10/110で計上し決算で差額を雑損失にした場合、経費は申告調整不要、減価償却資産・期末在庫に係る部分は申告調整が必要（国税庁 消費税経理通達関係Q&A 問6〜問9）
 
-→ **仕訳例の完全版: [インボイス経過措置70%の仕訳例 — 80%との分け方、少額資産・交際費・決算の処理](https://shiwake.isz.ai/guide/invoice-keika-shiwake/?utm_source=github&utm_medium=referral)**
+→ **仕訳例の完全版: [インボイス経過措置70%の仕訳例 — 80%との分け方、少額資産・交際費・決算の処理](https://shiwake.ai/guide/invoice-keika-shiwake/?utm_source=github&utm_medium=referral)**
 
-→ **完全版（計算例・仕訳例・よくある質問・出典付き）: [インボイス制度の実務](https://shiwake.isz.ai/guide/invoice/?utm_source=github&utm_medium=referral)**
+→ **完全版（計算例・仕訳例・よくある質問・出典付き）: [インボイス制度の実務](https://shiwake.ai/guide/invoice/?utm_source=github&utm_medium=referral)**
 
 ---
 
 ## 無料で計算する・ISZ™ 仕訳AI を試す
 
-- **[インボイス登録番号（T番号）のチェックツール](https://shiwake.isz.ai/tools/invoice-number/?utm_source=github&utm_medium=referral)**
-- **[経過措置（80%・70%控除）の計算ツール](https://shiwake.isz.ai/tools/keika-sochi/?utm_source=github&utm_medium=referral)**
-- **[請求書のAI読み取り（登録番号・税率別の金額から仕訳まで）](https://shiwake.isz.ai/tools/invoice-ocr/?utm_source=github&utm_medium=referral)**
+- **[インボイス登録番号（T番号）のチェックツール](https://shiwake.ai/tools/invoice-number/?utm_source=github&utm_medium=referral)**
+- **[経過措置（80%・70%控除）の計算ツール](https://shiwake.ai/tools/keika-sochi/?utm_source=github&utm_medium=referral)**
+- **[請求書のAI読み取り（登録番号・税率別の金額から仕訳まで）](https://shiwake.ai/tools/invoice-ocr/?utm_source=github&utm_medium=referral)**
 
 **ISZ™ 仕訳AI** は、領収書から登録番号を読み取り、軽減税率・経過措置（80%→70%）の税区分を付けた仕訳の下書きを作ります。自社が出す請求書（適格請求書の記載事項、税率ごとに1回の端数処理）の作成・PDF と、通帳の入金との消込にも対応しています。
-→ **[無料で試す（証憑100枚まで無料）](https://acc.isz.ai/login?tab=register&utm_source=github&utm_medium=referral&utm_campaign=invoice)**　｜　**[ISZ™ 仕訳AI の詳細](https://shiwake.isz.ai/?utm_source=github&utm_medium=referral)**
+→ **[無料で試す（証憑100枚まで無料）](https://acc.isz.ai/login?tab=register&utm_source=github&utm_medium=referral&utm_campaign=invoice)**　｜　**[ISZ™ 仕訳AI の詳細](https://shiwake.ai/?utm_source=github&utm_medium=referral)**
